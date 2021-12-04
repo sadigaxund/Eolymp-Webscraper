@@ -1,63 +1,67 @@
 
 # Import Required Modules
+from logging import WARNING
 from bs4 import BeautifulSoup
+from header import LogUtil as Logger
 import requests
 import time
 
-
+logger = Logger()
 out_tsvFile = 'Eolymp.tsv'
 delim = '\t'
 header = ["ID", "Problem"]
+firstProblem = 1
+lastProblem = 10
 
-first = 1
-last =  10962
+def log(msg, type):
+    t = time.strftime("%H:%M:%S", time.localtime())
+    prefix = "WARNING(%s):" if type is logger.WARNING else "INFO(%s):" 
+    print(prefix % t, msg)
+    logger.log(msg, type)
 
-def convertToTSV(line):
-    retval = line[0]
-    for i in range(1, len(line)):
-        retval += delim + line[i]
-    return retval + "\n"
+with open(out_tsvFile, 'w', newline='') as f:
+    f.write(Logger.convertToXSV(header, delim))
+    iter = 1  # needed for request timeout error
+    for page_id in range(firstProblem, lastProblem + 1):
+        try:
+            # Forge http request url
+            page = requests.get(
+                "https://www.eolymp.com/en/problems/" + str(page_id))
+            # Initialize the html parser
+            soup = BeautifulSoup(page.content, 'html.parser')
+            # Fetch header tag which contains the 'problem name'
+            div1 = soup.body.select('h1')
+            # Scraped Data
+            line = [page_id, div1[0].text]
 
-def fetchProblems(starti, endi):
-    with open(out_tsvFile, 'w', newline='') as f:
-        f.write("ID\tProblem\n")
-        iter = 0
-        for page_id in range(starti, endi + 1):
-            try:
-                page = requests.get("https://www.eolymp.com/en/problems/" + str(page_id))
-                soup = BeautifulSoup(page.content, 'html.parser')
-                page_body = soup.body
-                div1 = page_body.select('h1')
-                line = str(page_id) + "\t" + div1[0].text
-                
-                if "Signin" in line:
-                    print("Error Writing(Signin) : Problem #" + str(page_id))
-                    continue
+            '''
+            < Exception Handling >  
 
-                if "503 Service" in line:
-                    iter += 1
-                    if iter == 3:
-                        iter = 0
-                        print("Request Timeout : Problem #" + str(page_id))
-                        continue
-                    page_id -= 1
-                    time.sleep(1)
-                    continue
-
-                    
-                print("Completed " + str("{:.2f}".format(float(page_id - first) / (last - first + 1) * 100))  + "% : " + div1[0].text )
-                f.write(line + "\n")
-                
-            except Exception as e:
-                print(str(e))
+            If the response contains 'Signin', 
+            the problem is not publicly available
+            '''
+            if "Signin" in line[1]:
+                log("Access Denied, Private Problem : Problem #" + str(page_id), logger.WARNING)
                 continue
-        print("Completed 100.00%")
-        f.close()
 
+            if "503 Service" in line[1]:
+                iter += 1
+                if iter == 4:
+                    iter = 1
+                    log("Request Timeout : Problem #" + str(page_id), logger.WARNING)
+                    continue
+                page_id -= 1 # decrease id to return back and try again
+                time.sleep(1 + iter) # wait till system can respond
+                continue
 
+            if "Page not found" in line[1]:
+                log("Page not found : Problem #" + str(page_id), logger.WARNING)
+                continue
 
-fetchProblems(first, last)
-
-    
-
+            percent = float(page_id - firstProblem + 1) / (lastProblem - firstProblem + 1) * 100
+            log("Completed " + str("{:.2f}".format(percent)) + "% : "+ str(page_id) + " : " + div1[0].text, logger.INFO)
+            f.write(Logger.convertToXSV(line, delim))
+        except Exception as e:
+            print(str(e))
+            continue
 

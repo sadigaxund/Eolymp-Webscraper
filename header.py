@@ -1,10 +1,12 @@
 import logging
 
-class Logger:
 
+
+
+class LogUtil:
+    
     WARNING = logging.WARNING
     INFO = logging.INFO
-
 
     def __init__(self) -> None:
         # Create a custom logger
@@ -24,13 +26,16 @@ class Logger:
         self.__logger.addHandler(w_handler)
         pass
     
+    def convertToXSV(line, delim):
+        retval = str(line[0])
+        for i in range(1, len(line)):
+            retval += delim + str(line[i])
+        return retval + "\n"
+
     def log(self, message, type):
         if type is self.INFO:
             self.__logger.info(message)
         if type is self.WARNING:
             self.__logger.warning(message)
-
-
-
-
+    
 
