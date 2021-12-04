@@ -63,4 +63,3 @@ with open(out_tsvFile, 'w', newline='') as f:
         except Exception as e:
             print(str(e))
             continue
-

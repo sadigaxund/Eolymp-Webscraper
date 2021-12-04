@@ -1,10 +1,150 @@
-2021-12-04 22:00:24,320 :: INFO : Completed 10.00% : 1 : Simple problem
-2021-12-04 22:00:24,901 :: INFO : Completed 20.00% : 2 : Digits
-2021-12-04 22:00:25,777 :: INFO : Completed 30.00% : 3 : Match’s model
-2021-12-04 22:00:26,661 :: INFO : Completed 40.00% : 4 : Two circles
-2021-12-04 22:00:27,440 :: INFO : Completed 50.00% : 5 : Two factors
-2021-12-04 22:00:28,020 :: INFO : Completed 60.00% : 6 : The vouchers
-2021-12-04 22:00:28,816 :: INFO : Completed 70.00% : 7 : Roman numerals
-2021-12-04 22:00:29,431 :: INFO : Completed 80.00% : 8 : Matches
-2021-12-04 22:00:30,084 :: INFO : Completed 90.00% : 9 : N-digit numbers
-2021-12-04 22:00:30,709 :: INFO : Completed 100.00% : 10 : Gardener
+2021-12-04 23:31:09,553 :: INFO : Completed : 1 : Simple problem : 47101 / 52622
+
+2021-12-04 23:31:09,562 :: INFO : Completed : 2 : Digits : 26788 / 34176
+
+2021-12-04 23:31:09,566 :: INFO : Completed : 3 : Match’s model : 3418 / 16090
+
+2021-12-04 23:31:09,573 :: INFO : Completed : 4 : Two circles : 8262 / 13395
+
+2021-12-04 23:31:09,578 :: INFO : Completed : 5 : Two factors : 2063 / 5560
+
+2021-12-04 23:31:09,583 :: INFO : Completed : 6 : The vouchers : 1289 / 2040
+
+2021-12-04 23:31:09,589 :: INFO : Completed : 7 : Roman numerals : 2889 / 4118
+
+2021-12-04 23:31:09,594 :: INFO : Completed : 8 : Matches : 4380 / 6512
+
+2021-12-04 23:31:09,598 :: INFO : Completed : 9 : N-digit numbers : 3142 / 4714
+
+2021-12-04 23:31:09,601 :: INFO : Completed : 10 : Gardener : 2999 / 4110
+
+2021-12-04 23:31:09,605 :: INFO : Completed : 11 : Big accuracy : 3781 / 6149
+
+2021-12-04 23:31:09,609 :: INFO : Completed : 12 : Injured Picture : 803 / 1244
+
+2021-12-04 23:31:09,617 :: INFO : Completed : 13 : Spider and Fly : 1527 / 2778
+
+2021-12-04 23:31:09,622 :: INFO : Completed : 14 : Rabbit-failure : 1667 / 2234
+
+2021-12-04 23:31:09,625 :: INFO : Completed : 15 : Mouse and corns : 3806 / 5038
+
+2021-12-04 23:31:09,631 :: INFO : Completed : 16 : Dragon : 1647 / 2622
+
+2021-12-04 23:31:09,639 :: INFO : Completed : 17 : Gardener-painter : 3689 / 4761
+
+2021-12-04 23:31:09,642 :: INFO : Completed : 18 : Paint2D : 730 / 1526
+
+2021-12-04 23:31:09,647 :: INFO : Completed : 19 : Degree of symmetry : 6999 / 8291
+
+2021-12-04 23:31:09,658 :: INFO : Completed : 20 : How many times to repeat? : 5145 / 7683
+
+2021-12-04 23:31:09,665 :: INFO : Completed : 21 : Corruption : 131 / 1653
+
+2021-12-04 23:31:09,668 :: INFO : Completed : 22 : "Mirror prime" numbers : 2726 / 4868
+
+2021-12-04 23:31:09,683 :: INFO : Completed : 23 : New-year tree : 796 / 1781
+
+2021-12-04 23:31:09,695 :: INFO : Completed : 24 : Paint2D-Crack : 39 / 281
+
+2021-12-04 23:31:09,698 :: INFO : Completed : 25 : Paint3D : 557 / 838
+
+2021-12-04 23:31:10,454 :: INFO : Completed : 26 : New-year presents : 1181 / 1610
+
+2021-12-04 23:31:10,456 :: INFO : Completed : 27 : Cycle shifts : 4224 / 5139
+
+2021-12-04 23:31:10,460 :: INFO : Completed : 28 : Product : 598 / 1419
+
+2021-12-04 23:31:10,463 :: INFO : Completed : 29 : The level of  palindrome : 2155 / 3004
+
+2021-12-04 23:31:10,469 :: INFO : Completed : 30 : Certification : 101 / 246
+
+2021-12-04 23:31:10,472 :: INFO : Completed : 31 : Superstitious Santa Claus : 1186 / 1408
+
+2021-12-04 23:31:10,474 :: INFO : Completed : 32 : Queen and pawn : 156 / 450
+
+2021-12-04 23:31:10,478 :: INFO : Completed : 33 : The favourite numbers of Santa Claus : 1689 / 2591
+
+2021-12-04 23:31:10,480 :: INFO : Completed : 34 : The word of sponsor : 1278 / 1641
+
+2021-12-04 23:31:10,486 :: INFO : Completed : 35 : Triangles from Matches : 633 / 1624
+
+2021-12-04 23:31:10,489 :: INFO : Completed : 36 : Gorynych the Dragon : 1211 / 1732
+
+2021-12-04 23:31:10,491 :: INFO : Completed : 37 : Mail of the sponsor : 937 / 1173
+
+2021-12-04 23:31:10,495 :: INFO : Completed : 38 : Firs conversation : 93 / 220
+
+2021-12-04 23:31:10,497 :: INFO : Completed : 39 : Sponsor’s money : 410 / 579
+
+2021-12-04 23:31:10,500 :: INFO : Completed : 40 : Pipeline (RU) : 247 / 445
+
+2021-12-04 23:31:10,505 :: INFO : Completed : 41 : Command of the Mayor : 418 / 632
+
+2021-12-04 23:31:10,508 :: INFO : Completed : 42 : Green spot : 98 / 262
+
+2021-12-04 23:31:10,512 :: INFO : Completed : 43 : Competitors’ quantity of olimpia : 2731 / 3751
+
+2021-12-04 23:31:10,515 :: INFO : Completed : 44 : The number of ones : 2334 / 3438
+
+2021-12-04 23:31:10,518 :: INFO : Completed : 45 : The Fuel : 144 / 208
+
+2021-12-04 23:31:10,522 :: INFO : Completed : 46 : The Segments : 1267 / 1640
+
+2021-12-04 23:31:10,525 :: INFO : Completed : 47 : The Parquet of the Triangles : 607 / 797
+
+2021-12-04 23:31:10,529 :: INFO : Completed : 48 : The Red and Blue Squares : 409 / 601
+
+2021-12-04 23:31:10,531 :: INFO : Completed : 49 : The Smart Cat : 695 / 1058
+
+2021-12-04 23:31:10,538 :: INFO : Completed : 50 : The cut number : 364 / 524
+
+2021-12-04 23:31:11,307 :: INFO : Completed : 51 : The Cost of the K-dominoes : 813 / 945
+
+2021-12-04 23:31:11,310 :: INFO : Completed : 52 : The Cheese for Anfisa : 806 / 1009
+
+2021-12-04 23:31:11,312 :: INFO : Completed : 53 : Anfisa’s Holiday : 92 / 188
+
+2021-12-04 23:31:11,314 :: INFO : Completed : 54 : Murzyk : 466 / 1242
+
+2021-12-04 23:31:11,317 :: INFO : Completed : 55 : The presents to the 8th of March : 709 / 1139
+
+2021-12-04 23:31:11,322 :: INFO : Completed : 56 : The Butterflies : 35 / 171
+
+2021-12-04 23:31:11,325 :: INFO : Completed : 57 : The Butterfly – Medical Attendan : 3595 / 4003
+
+2021-12-04 23:31:11,328 :: INFO : Completed : 58 : The Billiards : 1040 / 1399
+
+2021-12-04 23:31:11,332 :: INFO : Completed : 59 : The Cells are Painted out : 62 / 134
+
+2021-12-04 23:31:11,337 :: INFO : Completed : 60 : Area of a Polygon : 2530 / 3235
+
+2021-12-04 23:31:11,339 :: INFO : Completed : 61 : Cleaning up the Snow : 348 / 448
+
+2021-12-04 23:31:11,341 :: INFO : Completed : 62 : The Factorial : 1876 / 3637
+
+2021-12-04 23:31:11,345 :: INFO : Completed : 63 : Anfisa and the flowers : 6363 / 7566
+
+2021-12-04 23:31:11,353 :: INFO : Completed : 64 : The Timetable from "Diez-Product" : 159 / 216
+
+2021-12-04 23:31:11,356 :: INFO : Completed : 65 : The Candies : 126 / 535
+
+2021-12-04 23:31:11,361 :: INFO : Completed : 66 : The Directors’ Visitors : 1385 / 1723
+
+2021-12-04 23:31:11,365 :: INFO : Completed : 67 : Cheese for Anfisa - 2 : 3713 / 4170
+
+2021-12-04 23:31:11,368 :: INFO : Completed : 68 : Metro : 122 / 174
+
+2021-12-04 23:31:11,370 :: INFO : Completed : 69 : Vinnis’ Friends : 327 / 379
+
+2021-12-04 23:31:11,372 :: INFO : Completed : 70 : Industrious bees : 346 / 397
+
+2021-12-04 23:31:11,376 :: INFO : Completed : 71 : The Expression from the Numbers : 159 / 225
+
+2021-12-04 23:31:11,380 :: INFO : Completed : 72 : The Way Home : 526 / 636
+
+2021-12-04 23:31:11,382 :: INFO : Completed : 73 : Phibonachies’ Numbers : 482 / 610
+
+2021-12-04 23:31:11,389 :: INFO : Completed : 74 : Spider and Fly - 2 : 86 / 377
+
+2021-12-04 23:31:11,393 :: INFO : Completed : 75 : Pirates and coins : 5817 / 6462
+
