@@ -1,31 +1,21 @@
 import logging
-
-
+import time
 
 
 class LogUtil:
-    
+
     WARNING = logging.WARNING
     INFO = logging.INFO
+    __format = '%(asctime)s :: %(levelname)s : %(message)s'
+    __out = ''
 
-    def __init__(self) -> None:
-        # Create a custom logger
-        self.__logger = logging.getLogger(__name__)
-        # Create handlers
-        i_handler = logging.FileHandler('info.log')
-        w_handler = logging.FileHandler('info.log')
-        i_handler.setLevel(logging.WARNING)
-        w_handler.setLevel(logging.INFO)
-        # Create formatters and add it to handlers
-        c_format = logging.Formatter('%(asctime)s \t %(levelname)s \t %(message)s')
-        f_format = logging.Formatter('%(asctime)s \t %(levelname)s \t %(message)s')
-        i_handler.setFormatter(c_format)
-        w_handler.setFormatter(f_format)
-        # Add handlers to the logger
-        self.__logger.addHandler(i_handler)
-        self.__logger.addHandler(w_handler)
+    def __init__(self, output='a.log') -> None:
+        f = open(output, mode = 'w')
+        f.write("")
+        f.close()
+        self.__out = output
         pass
-    
+
     def convertToXSV(line, delim):
         retval = str(line[0])
         for i in range(1, len(line)):
@@ -34,8 +24,16 @@ class LogUtil:
 
     def log(self, message, type):
         if type is self.INFO:
-            self.__logger.info(message)
+            logging.basicConfig(filename=self.__out, level=type,
+                                filemode='a', format=self.__format)
+            logging.info(message)
         if type is self.WARNING:
-            self.__logger.warning(message)
-    
+            logging.basicConfig(filename=self.__out, level=type,
+                                filemode='a', format=self.__format)
+            logging.warning(message)
 
+
+    def print(self, message, type):
+        t = time.strftime("%H:%M:%S", time.localtime())
+        prefix = "WARNING(%s)::" if type is self.WARNING else "INFO(%s)::"
+        print(prefix % t, message)

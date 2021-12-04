@@ -6,17 +6,16 @@ from header import LogUtil as Logger
 import requests
 import time
 
-logger = Logger()
+logger = Logger('data/info.log')
 out_tsvFile = 'Eolymp.tsv'
 delim = '\t'
 header = ["ID", "Problem"]
 firstProblem = 1
 lastProblem = 10
 
+# Log helper method
 def log(msg, type):
-    t = time.strftime("%H:%M:%S", time.localtime())
-    prefix = "WARNING(%s):" if type is logger.WARNING else "INFO(%s):" 
-    print(prefix % t, msg)
+    logger.print(msg, type)
     logger.log(msg, type)
 
 with open(out_tsvFile, 'w', newline='') as f:
@@ -25,8 +24,8 @@ with open(out_tsvFile, 'w', newline='') as f:
     for page_id in range(firstProblem, lastProblem + 1):
         try:
             # Forge http request url
-            page = requests.get(
-                "https://www.eolymp.com/en/problems/" + str(page_id))
+            url = "https://www.eolymp.com/en/problems/" + str(page_id)
+            page = requests.get(url)
             # Initialize the html parser
             soup = BeautifulSoup(page.content, 'html.parser')
             # Fetch header tag which contains the 'problem name'
@@ -41,21 +40,21 @@ with open(out_tsvFile, 'w', newline='') as f:
             the problem is not publicly available
             '''
             if "Signin" in line[1]:
-                log("Access Denied, Private Problem : Problem #" + str(page_id), logger.WARNING)
+                log("Access Denied, Private Problem : Problem @ " + url, logger.WARNING)
                 continue
 
             if "503 Service" in line[1]:
                 iter += 1
                 if iter == 4:
                     iter = 1
-                    log("Request Timeout : Problem #" + str(page_id), logger.WARNING)
+                    log("Request Timeout : Problem @ " + url, logger.WARNING)
                     continue
                 page_id -= 1 # decrease id to return back and try again
                 time.sleep(1 + iter) # wait till system can respond
                 continue
 
             if "Page not found" in line[1]:
-                log("Page not found : Problem #" + str(page_id), logger.WARNING)
+                log("Page not found : Problem @ " + url, logger.WARNING)
                 continue
 
             percent = float(page_id - firstProblem + 1) / (lastProblem - firstProblem + 1) * 100
