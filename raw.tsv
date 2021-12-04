@@ -1,0 +1,5325 @@
+ID	Problem
+1	Simple problem
+2	Digits
+3	Match’s model
+4	Two circles
+5	Two factors
+6	The vouchers
+7	Roman numerals
+8	Matches
+9	N-digit numbers
+10	Gardener
+11	Big accuracy
+12	Injured Picture
+13	Spider and Fly
+14	Rabbit-failure
+15	Mouse and corns
+16	Dragon
+17	Gardener-painter
+18	Paint2D
+19	Degree of symmetry
+20	How many times to repeat?
+22	"Mirror prime" numbers
+23	New-year tree
+24	Paint2D-Crack
+25	Paint3D
+27	Cycle shifts
+28	Product
+29	The level of  palindrome
+31	Superstitious Santa Claus
+33	The favourite numbers of Santa Claus
+34	The word of sponsor
+35	Triangles from Matches
+37	Mail of the sponsor
+38	Firs conversation
+39	Sponsor’s money
+40	Pipeline (RU)
+42	Green spot
+44	The number of ones
+45	The Fuel
+46	The Segments
+47	The Parquet of the Triangles
+48	The Red and Blue Squares
+49	The Smart Cat
+50	The cut number
+51	The Cost of the K-dominoes
+52	The Cheese for Anfisa
+53	Anfisa’s Holiday
+54	Murzyk
+55	The presents to the 8th of March
+56	The Butterflies
+57	The Butterfly – Medical Attendan
+58	The Billiards
+59	The Cells are Painted out
+60	Area of a Polygon
+61	Cleaning up the Snow
+62	The Factorial
+63	Anfisa and the flowers
+64	The Timetable from "Diez-Product"
+65	The Candies
+66	The Directors’ Visitors
+67	Cheese for Anfisa - 2
+68	Metro
+69	Vinnis’ Friends
+70	Industrious bees
+71	The Expression from the Numbers
+72	The Way Home
+73	Phibonachies’ Numbers
+74	Spider and Fly - 2
+75	Pirates and coins
+76	New case
+77	The Garland
+78	Islands
+79	The Genome of Newton
+80	Discounts
+81	Points
+82	Catacombs
+83	Gnome’s toys
+84	Transfer
+85	Spiral
+86	Waterpipe - 2
+87	Robot
+88	LeChuck’s Revenge
+89	Cube Painting
+90	Gold, Food and Power
+91	A Piece of Paper
+92	Subprojects
+93	Truck Driving
+94	Primes’ Problem
+95	No More Hapalies!
+96	Automat
+97	Bell numbers
+99	Lines
+100	Pareto domination
+101	Permutations with given distance
+102	Polyhedron
+103	Process simulation
+104	Rope pulling – 2
+105	Sets in a four-partite graph
+106	Tokens
+107	Compact discs
+108	Median number
+109	Page numbering
+110	Game
+111	Clocks
+112	Cake
+113	Balloons
+114	Prison escape
+115	Two digits
+116	Long number (RU)
+117	Raft
+118	Game - 2 (RU)
+119	Degree of two
+120	N-unit numbers - 2
+121	CD-stock exchange
+122	Mountain routes
+123	Number of zeroes in factorial
+124	Square
+125	Olympiad
+126	Number of an apartment
+127	Dollars in bank
+128	Lucky tickets
+129	Sections in a circle (RU)
+130	Rectangle
+132	Broken line (RU)
+133	Square and points (RU)
+134	Two circle - 2 (RU)
+136	The Segment
+138	Cash machine
+139	Population of robots (RU)
+140	Financial pyramid (RU)
+142	Point and piece (RU)
+143	Point and triangle
+144	Quadrilateral
+145	Squares
+146	Squares - 2
+147	Quantity of days (RU)
+149	Factorial - 2
+150	Polygonal chain - 2
+151	Polygon
+152	New-year presents - 2
+153	Two rectangulars (RU)
+154	Pieces - 2
+155	The scientific project
+156	Two-dimensional domino (RU)
+157	Zoo
+158	New number Fibonacci (RU)
+160	Dancing school (RU)
+161	Robots (RU)
+162	Unhappy numbers (RU)
+163	Happy figures (RU)
+164	Postcards (RU)
+165	Symmetry (RU)
+166	Streetraicing (RU)
+167	Progressions (RU)
+168	Lomonosov our days (RU)
+169	Skyscrapers (RU)
+170	Bag of fake money
+171	Traffic jams (RU)
+172	Swapping of data (RU)
+173	Syntax UML (RU)
+174	Cities - competitors (RU)
+175	Traffic lights (RU)
+176	Chieftain selection (RU)
+177	Poker (RU)
+178	Each third is free (RU)
+179	Redistribution (RU)
+180	Graveyard (RU)
+181	Food program (RU)
+182	Conscription
+183	Relatives (RU)
+184	Parcelling (RU)
+185	Orks of the future
+186	Egyptian symbols
+187	Minibuses (RU)
+188	Colored Wizards
+189	Bonding (RU)
+190	Roads in the Kingdom (RU)
+191	Uniform flow (RU)
+192	Just Fibonacci (RU)
+193	The sum of figures (RU)
+194	Product of figures (RU)
+195	Degree (RU)
+196	Simple game (RU)
+197	Piece and circles (RU)
+198	Green plantings (RU)
+199	Coloring Rectangles (RU)
+200	Quadrilateral - 2
+201	Circles - 2 (RU)
+202	Cubes (RU)
+203	Cubes - 2 (RU)
+204	Inflation rate (RU)
+205	The first is not a palindrome (RU)
+206	Tourist
+207	Traffic lights - 2 (RU)
+208	Macros (RU)
+209	Copy Protection (RU)
+210	Names of poems (RU)
+211	Mushroom hunting (RU)
+212	Fence Kopatycha (RU)
+213	Bring hamsters (RU)
+214	Hamsters on a torus (RU)
+215	Compote harvesting (RU)
+216	Treasure hunt (RU)
+217	Big secret (RU)
+218	Shaman
+219	Central heating
+220	Liars (RU)
+221	Mountaineering (RU)
+222	Tanglegram (RU)
+223	Evolution (RU)
+224	The dealer (RU)
+225	Circles
+226	Olympiad and Internet (RU)
+227	Venusian programmers
+228	Crocodile Hunting – 2
+229	Boundaries
+230	Brackets parade
+231	Adventures
+232	Lazy visitor
+233	The Neighbor
+234	Mafia
+235	Spring Time
+236	Triomino
+237	Immovable Elements of a Matrix
+238	Wolves
+239	Triangles
+240	Similarity (RU)
+241	Bog (RU)
+242	Prime Number (RU)
+243	Polygon (RU)
+244	The cross-country vehicle (RU)
+245	The best approximation of pi (RU)
+246	Pyramid
+247	Unhappy bus
+248	Young gardener
+249	The Very Hard One
+250	Robots and Oil Transportation Sy
+251	Symmetry 2
+252	The Shortest does not Mean the S
+253	Watermelon Fields Wonderland Countries Fools
+254	Martian King
+255	License Software
+256	Chain fraction (RU)
+257	Gambling
+258	A box of chocolate
+259	Genetic Engineering
+260	Pumpkin porridge
+261	An aliquot fraction (RU)
+262	The staircase
+263	Three ones
+264	The greatest sequence multiple subsequence
+265	Vertex Cover
+266	Comparison
+267	Subtraction
+268	Star Routes
+269	Four Circles
+270	CheckSum
+271	Factorial!
+272	Multiplication
+273	Modular Exponentiation
+274	Type printer
+275	Islands
+276	Fish
+277	Linear Garden
+278	Piramid base
+279	Teleporters
+280	Cleaning the territory
+281	Flood
+282	Sails
+283	Miners
+284	Pairs
+285	Training
+287	Archery
+288	Hiring
+289	POI
+290	Raisins
+291	Garage
+292	Mecho
+294	Salesman
+295	Circle
+296	The painted over sections 2
+297	The painted points
+298	Green spot  - 2
+299	Circle and Points
+300	Apocalyptic Alignment
+301	Boundless Boxes
+302	Cargo Carriage
+303	Dreadful Deadlines
+304	Earthquake Emendations
+305	Folded Fixtures
+306	Globulous Gumdrops
+307	Honed Hops
+308	Knicht and pawn against a Knicht
+309	The bishop and pawn against the bishop
+310	The letter from Prostokvashino (RU)
+311	Maximum quantity of figures
+312	ACM
+313	A + B (RU)
+314	A + B ? (RU)
+315	Effects of fishing (RU)
+316	The fire inspector (RU)
+317	Very rapid multiplication of (RU)
+318	Binomial coefficients 1
+319	Binomial coefficients 2
+320	Binomial coefficients 3
+321	Binomial coefficients 4
+322	Binomial coefficients 5
+323	Flies (RU)
+324	Numbers
+325	Dangerous route
+326	Mountains (RU)
+327	Forecasters (RU)
+328	Teleport (RU)
+329	Number of words
+330	Word the champion
+331	The offer the champion
+332	The children`s railway
+333	The children`s railway - 2 (RU)
+334	Divide or pick up? (RU)
+335	Game with switches
+337	Grandfather folded or not folded? (RU)
+338	My favorite, irreducible...
+339	Again irreducible
+340	Once - peas, two - peas...
+341	Influenza AH1N1
+342	Dr. House in the morgue
+343	Target Ethan Hunt
+344	Three Little Pigs
+345	Progress artillery
+346	Progress in the artillery continues
+347	Time to lay out the stones
+348	Median sequence
+349	Economical housewife
+350	Ancient labyrinth
+351	Cities of the Nile
+353	Candies
+354	Permutation
+355	Railways
+356	Launch
+357	Maximum Salary
+358	Progress in artillery begins
+359	Circle and line
+360	Chain
+361	Interschool network
+362	Difference in wages
+363	Robots
+364	Dictionary
+365	Frame
+366	Equal numbers
+367	RSA Factorization
+369	System Engineer
+370	Cycles of Lanes
+371	Multiprocessor Scheduling
+372	Maze Stretching
+373	Software Industry Revolution
+374	The Lucky Numbers
+375	The Robbery
+377	The Bad Number
+378	Mysterious Note
+379	Fault protection
+380	Clash of the Titans
+381	Terrible number
+382	Pear
+383	Histogram
+384	Mitin crib
+385	DVD and slut
+386	Simple arithmetic
+387	DVD and a napkin
+388	Transformation
+390	Anagrams
+398	Cake for Sergei
+399	The consequences of influenza in Prostokvashino
+402	Complete Tree Labeling
+403	Agent
+404	Building
+405	Crazy frog
+406	Directions
+407	Exchange
+408	Fence
+409	Game
+410	Hadron Collider
+411	Intersections
+412	Jammed
+414	Equation
+416	Lectures
+417	Amount
+418	Triangle
+419	The 3n + 1 problem
+420	From guns to the Moon
+421	Yo-Yo
+422	Snake
+423	Award
+424	Rectangles
+425	Chess
+426	Division
+427	Assessment
+428	Cannon
+429	Game Zuma
+430	Hamsters and Rabbits
+431	Counting on Tree
+432	Dungeon Master
+433	Guardian of Decency
+434	Romero’s Dilemma
+435	Prime Path
+436	Intersection
+437	Ancestors
+438	XML-converter
+439	Brackets
+440	Counterfeit check
+441	The most round number
+442	Constructions
+443	ICQ
+444	Battleships
+445	Excursion
+446	Smooth Divisors
+447	Many number
+448	Chords
+449	Straight Dividers 2
+450	Spiral
+451	base64
+452	Shelves
+453	Restaurants
+454	Changeling
+455	Circular route
+456	Game
+457	Similar numbers
+458	Black and white graphics
+459	Lawn
+460	Tram
+461	Triangles
+462	Keyboard
+463	Incorrect addition
+464	Numbers
+465	Permutations
+466	Memory
+467	Satellite
+468	Tree
+469	Snooker
+470	Super palindromes
+471	Robot
+477	Sum of cubes
+478	White cubes
+480	Exponentiation - 2
+481	Repeat: how many times to repeat? 
+482	Tri Tiling
+483	Cut frame
+485	Collision balls
+486	Inexact string
+487	Discrete logarithm
+488	Bypass matrix with "snake"
+490	Coding
+491	Palindrome
+492	Transformations
+493	Decomposition
+494	AEIOUY
+495	Expansion of
+496	Permutation
+497	Lazybones
+498	Mythical Chess
+499	Dream
+500	Repair
+501	Playing the fool
+503	Honey
+504	Parking
+505	Crossword
+506	New compiler
+507	Secret Bunker
+508	Minimization template
+509	Sticks
+510	Toasts
+511	Guess the number
+512	Night at Nicholas
+513	Nicholas Problem
+514	Time for Nicholas
+515	Fathers problems
+516	Help Vasya
+517	Assignment of Nicholas
+518	Sum of two
+519	Sum of squares
+520	The sum of all
+521	Asteroids
+522	Business Center
+523	Central Element
+524	Database
+525	Exclusive Access 2
+526	Funny Language
+527	Garbling Game
+528	Headshot
+529	Inspection
+530	Java Certification
+531	K-equivalence
+532	Series / Parallel Resistor Circuits
+533	The Heart of the Country
+534	Lawrence of Arabia
+535	Shoring Up the Levees
+536	Combination Lock
+537	Fred’s Lotto Tickets
+538	A No-Win Situation
+539	A Walk in the Park
+540	Teleport Out!
+541	Worms
+543	Money Matters
+544	Allergy Test
+545	Rain Fall
+547	Gokigen Naname
+549	Beacons
+550	Playfair Cipher
+551	Code Permutations
+552	Numerical sequence
+553	Recursion
+554	Inscribed Circle
+555	The nearest points
+556	The sum of two numbers
+557	Cutting rectangle
+560	Ray of Light
+561	Interesting equation
+562	Progress in the artillery does not stop
+563	Simple equation
+564	Lagrange
+565	Imposing figures
+566	Letter of postman Pechkin
+567	Only three handfuls!
+568	Average Salary
+570	The programming competition
+571	The greatest common divisor
+573	Polar ones
+574	Buns
+575	Sequence (RU)
+577	Book
+578	Cards in the subway (RU)
+580	EGE (RU)
+581	Evacuation (RU)
+582	Sequence 2
+583	Airplane (RU)
+584	The avant-garde architecture (RU)
+585	Electronic display (RU)
+586	Pouring (RU)
+587	Chernobyl’ Eagle on a Roof
+588	Geme
+589	A-function from a string
+591	Pattern (RU)
+601	Space Invaders
+608	Guitar Hero
+609	Water
+610	Ancient manuscripts
+611	Number systems
+614	Buying fruits
+615	Lazer (RU)
+616	Radars (RU)
+617	Lotto (RU)
+619	Beads (RU)
+621	Palindrom2 (RU)
+622	Ones
+624	DVD (RU)
+626	Hard Test
+627	Unloved digits
+628	Dominoes
+629	Ships
+631	Mondriaan`s Dream
+632	Balanced Food
+633	Tic-tac-toe (RU)
+638	Indivisibility of binomial coefficients
+640	Minimaximal matching
+641	Number of quadratic residues
+642	Two snails
+643	Triangular Room
+645	Get equal
+646	Jumps on strip
+647	Product of coprimes
+648	Divisibility of binomial coefficients
+650	Sum of two squares
+651	Shehrzad
+653	The triangle
+655	The segments
+658	Game strike out
+659	Tree Games
+660	Intelligent game Prostokvashino (RU)
+661	Details (RU)
+663	Game (RU)
+665	Wallpapering (RU)
+666	Triangle and point
+667	Circle and triangle (RU)
+668	Buses and airplanes
+673	Kingdom
+674	Weather conditions
+675	Shifted match
+676	Vectors
+677	Chocolate bars
+678	Employees
+679	Robot
+680	Hall Round Table
+681	Fibonacci Numbers
+682	Sum on a segment
+683	Partial matrix sum
+684	Sum in a matrix
+685	Sum on parallelepiped
+686	Next
+688	To the beginning of the row!
+689	Swaper
+691	Sparse Tables
+693	Minimum in the Stack
+694	Minimum in the Queue
+695	Range Variation Query
+696	Automatic Cash Terminal
+697	Box
+698	Weird sort
+699	Bowling
+700	Exam
+701	Platforms
+702	The Very Greatest Common Divisor
+703	Hamster 2
+704	Factorials
+705	Zero
+706	Most range circle (RU)
+707	Puddles (RU)
+708	Do not smoke! (RU)
+709	Length of association (RU)
+710	External boxes (RU)
+711	Quadrilateral (RU)
+712	Radio Transmitters (RU)
+713	Parking (RU)
+714	Intersection of segments (RU)
+715	Down the rabbit hole (RU)
+716	White Rabbit (RU)
+717	Blue caterpillar gives advice (RU)
+718	Mad Tea Party (RU)
+719	Mad Tea Party II
+720	Duchess (RU)
+721	Royal Croquet (RU)
+722	Royal Croquet 2
+723	Marine quadrille (RU)
+724	Who stole the pretzels? (RU)
+725	AntiGrey
+726	Again A+B
+727	Area
+728	Desert
+729	More all
+730	What prefix?
+731	From the prefix to infix
+732	Equivalence
+733	Ternary logic
+734	Contact
+735	Power
+736	Bob (RU)
+737	Jumping (RU)
+738	Short track (RU)
+739	Freestyle (RU)
+740	Curling (RU)
+741	Ski Race (RU)
+742	Nordic Combined (RU)
+743	Snowboarding (RU)
+744	Figure skating (RU)
+745	Alpine Skiing (RU)
+746	Hockey (RU)
+747	Biathlon (RU)
+748	Skating
+750	Home by trains
+751	Treasure
+752	Ahoy, Pirates!
+753	Power
+754	Playing with chips
+756	Villages
+757	Mirrors
+758	Cry
+759	Robot
+761	Boa
+762	Determinant
+764	House
+765	Bike
+769	Rectangle
+770	Peg Game
+771	Fibonacci Sequence
+772	 Bard
+773	Numbers
+774	Cake
+775	Preparation
+776	Roads
+777	Game
+778	Line
+779	Message in the Enemy Territory
+780	Rational Billiard
+781	Best Coalitions
+782	Informants
+783	Look-and-Say sequences
+784	Burger Time?
+785	Triangular Grid
+786	GrayInc
+787	Langton`s Ant
+788	Chinese Ink
+789	John
+790	Double Queue
+791	`JBC`
+792	Loan Scheduling
+793	Showstopper
+794	Highway
+796	The Stable Marriage Problem
+797	Arne Saknussemm
+798	Platforms
+799	Buying tickets
+805	Normal MaxSum
+806	Platforms - 3
+809	Squares and Rounds
+822	Unpack the string
+830	Prime numbers
+831	Expression
+832	Increasing subsequence
+833	The triangle and the point
+834	Power
+835	Poker
+836	Prime numbers 2
+837	Permutations
+838	Route
+839	Segments intersection
+840	Long sum
+841	Spiral
+842	The prime factors
+843	Permutation (2)
+844	Moneybox
+845	The card and envelope
+846	Long product
+847	Snake
+848	Perfect numbers
+849	Decomposition into terms
+850	Gangsters
+851	The area of a polygon
+852	Long division on a short number
+853	Sereja and Array
+855	Brackets (2)
+856	Route 2
+857	Convex hull
+858	Birthday
+861	Matrix Summation
+862	Message
+863	Line and squares
+864	SMS
+866	Computer Dialogue
+867	Throwing dice
+868	Watershed
+869	Anti-QuickSort
+871	The boundary of the polygon
+873	Palindromes
+874	Circular area
+875	Homer Simpson
+876	Garland
+878	Point in polygon
+879	Plumbing
+880	Center of gravity
+890	The Hunting
+901	Number of operations
+903	First or last?
+904	Increase by 2
+905	What type of triangle?
+906	Product of digits
+908	Those that are divisible by 6
+910	The arithmetic mean of positive
+911	Quadratic equation
+912	Number of sentences
+914	Maximum of absolute values
+915	Rectangular or not?
+916	Interesting Product
+917	Twice the minimum
+920	Use the function
+921	Negative elements
+922	Shift the elements to the right
+923	Season
+925	Perimeter and area of triangle
+926	Heron
+927	Number of toys
+928	The sum of the largest and the smallest
+929	Parallelogram
+930	Mobile Phone
+931	The ratio of product to the sum
+932	The height of triangle
+933	The sum of digits of a two-digit number
+934	The heights of the triangle
+935	Decomposition of three digit number
+936	Cramer's Formula
+937	Product of Array Except Self
+938	The point on the interval
+939	The square of sum
+940	Majority Element
+941	Difference
+942	Diagonals
+943	Digits permutation in 3-digit integer
+944	The area of a pyramid
+946	The area of quadrilateral
+948	Area and volume of the pyramid
+949	Two digits from four digits
+950	Four Square
+952	The surface area of the pyramid
+953	Remainder
+954	The surface area of the pyramid 2
+955	The square of sum
+956	The surface area of the pyramid 3
+957	Square root
+958	Surface area of pyramid 4
+959	Sum of digits
+960	The surface area of the cone
+962	The biggest party of the quadrilateral
+963	Permutation of the words
+964	The incidence matrix
+971	Josephus problem
+972	Sorting time
+973	Maximum sum on a tree
+974	Floyd - 1
+976	Floyd - existence
+977	Is it a Tree?
+978	Get a tree
+979	Frame-workout 1
+980	Frame-workout 2
+982	Connectivity
+983	Tree Edges Coloring
+984	Number of cycles
+985	Scheduled Checking
+986	Picking Numbers
+987	Nails
+988	Subsequence
+989	Ladders
+990	12345
+992	Cities and roads
+993	Traffic lights
+994	Coloured rain
+995	Irony
+997	One knight
+1000	a + b Problem
+1001	A + B in the binary system
+1002	Fraction
+1003	Nikifor 2
+1005	Matches for children are not toys!
+1007	The Stern-Brocot Number System
+1008	Number systems
+1009	2D-Nim
+1010	The equality
+1011	Nim
+1012	Coins
+1013	Factorial
+1014	Bones for Sharik 2
+1015	S-Nim
+1016	Octal Fractions
+1017	Fractional arithmetic
+1018	Expanding Fractions
+1019	Dead Fraction
+1021	Rational Numbers from Repeating Fractions
+1022	Cantor Fractions
+1023	Continued Fractions
+1024	Hello World!
+1025	Brackets
+1027	Fractions Again?!
+1028	Continuous Fractions
+1030	Fractions to Decimals
+1031	Ordered Fractions
+1034	Fractional tricks
+1035	Rectangle and the beam
+1036	Path to the parallelepiped
+1038	Entire
+1039	Big jumps
+1040	Minimal Circle
+1041	Triangle
+1042	Rope
+1043	Geometry Paradox
+1044	Convex area
+1045	The Circumference of the Circle
+1046	Diplomatic License
+1047	Polygon Programming with Ease
+1048	Bridge Across Islands
+1049	Right-angled Triangle
+1050	Cautious judge
+1051	Owl`s Problem
+1052	Mystery pattern
+1053	Stained-glass window
+1054	A Lucky number of Tiger`s
+1055	Numerical spiral
+1058	Avoid The Lakes
+1059	Fire Station
+1060	Lines
+1061	Three states
+1062	Lines (2)
+1063	Cell removal
+1064	The way a Knight
+1065	Garden beds
+1066	The nearest number
+1067	Rectangular division
+1068	Path caver
+1069	Holey fabric
+1070	Fill the line
+1071	Not representable number
+1072	Chemical reactions
+1073	Instant Complexity
+1075	Multiplying polynomials
+1076	The system of linear equations
+1077	Java vs C++
+1078	Power Strings
+1079	Removing the letters
+1080	Anagrammatic Distance
+1081	GATTACA
+1082	Mix and Build
+1083	Sequence
+1084	Sequence (2)
+1085	Dual lattice
+1086	Fibonacci sequence
+1088	Product sum
+1090	Folding
+1091	Cow Sorting
+1092	Left Mouse Button
+1093	Exact Symmetry
+1094	Bubble Sort
+1095	Bone Sort
+1096	A Very Simple Problem
+1097	Nim
+1098	Queen move!
+1099	The talking Galcian
+1101	Numbering path
+1102	Sticks Problem
+1103	Tour Counting
+1104	Dominos
+1105	Hello, Pie!
+1106	Dancing Party
+1107	ACM Contest and Blackout
+1108	Wormholes
+1109	106 miles to Chicago
+1110	The Eagle
+1111	Ackermann Function
+1112	Queen, Rook and Knight
+1113	Castle
+1114	Character designs on fabric
+1115	Area Ratio
+1116	Product of digits
+1117	Queen, rook and bishop
+1118	Watermelons
+1119	Pyramid of the symbols
+1120	Quadrilateral
+1122	Rook, knight and bishop
+1123	Lucky Number
+1124	Alphabetic graffiti
+1125	The Angle
+1126	Count primes
+1127	Big Number
+1128	Longge`s problem
+1129	Revision of the store
+1130	Graded lexicographic order
+1131	Abacaba
+1137	Determinant
+1143	Division by zero 2 or ...
+1144	Sort Machine
+1145	UnfairDivision
+1146	GCD
+1147	GCD Extreme
+1148	GCD LCM
+1149	Sandwiches
+1150	K-th Number (Easy)
+1151	Treasure Hunter
+1154	Circle of choirs
+1156	Fermat vs. Pythagoras
+1157	The Cat in the Hat
+1158	The Luckiest number
+1159	Birthday
+1160	Warm-up
+1172	Acceleration
+1173	Hierarchical employee structure 
+1174	Weighted points
+1175	Monsters
+1176	The series of Functions
+1177	The Function
+1178	Instability of a Tree
+1179	Substrings
+1180	Game on a Tree
+1181	Mint
+1182	Simple division
+1183	Boxes
+1184	Hyper-drive
+1185	Sum of numbers in a tree
+1186	Arithmetically Challenged
+1187	Cover Up
+1188	Decompressing in a GIF
+1189	Flipper
+1190	The Flood
+1191	Here`s a Product Which Will Make You Tensor
+1192	Trip the Lights Fantastic
+1193	Windows
+1194	Letter Cookies
+1195	Bicycle Puzzle
+1196	Geometry Darts
+1198	Communication Channels
+1199	Train Tickets
+1200	Counting Sheep (Easy)
+1202	Marble Madness
+1203	Robberies
+1204	Robot Encryption
+1205	Power of Cryptography
+1206	f91
+1207	sqrt log sin
+1208	Perfect P-th Powers
+1209	Function with factorials
+1210	Very Easy!!!
+1211	Infinite Sequence
+1213	Massive Numbers
+1214	Multifactorial
+1215	Rock, Paper, or Scissors?
+1216	Missile Command
+1217	Palindromic Primes Category in Jeopardy!
+1218	Pebbles
+1219	Rubik`s Cube
+1220	Geek Challenge [SKRZAT] (Base Minus Two)
+1221	Frogger
+1222	"Bubble Gum, Bubble Gum..."
+1223	Games R Us
+1224	Cover Up
+1225	Black Box
+1226	Foreign Exchange
+1227	Andys first dictionary
+1228	Add All
+1229	GCD Extreme II
+1230	GCD Super-Extreme
+1231	Lucky Controller
+1232	Bukazoids
+1233	Collisions
+1234	Dancers
+1235	Embassy
+1236	Dictionary of Obscene Words
+1237	Greatest Product
+1238	Fractal Cake
+1239	Hexaroman Numbers
+1240	Beam in Tunnel
+1241	Key
+1242	Game on Chessboard
+1243	Least Common Multiple
+1244	GCD and LCM
+1245	Island of Misfortune
+1246	Minimum Sum LCM
+1247	LCM Cardinality
+1248	Bridged Marble Rings
+1249	The first digit of the power
+1250	Fibonacci Problem Again
+1251	Trick or Treat
+1252	Working at the Restaurant
+1253	Lights
+1254	Darts
+1255	Genetics
+1256	Haunted Graveyard
+1257	Slalom
+1258	Routing
+1259	Happy Telephones
+1260	Stammering Aliens
+1261	Football products
+1263	The Easy Football Problem
+1265	Egypt
+1266	CD
+1267	Knight Moves!
+1268	Efficient production
+1269	Fractions
+1270	Prime Sums
+1271	Seinfeld
+1272	Tiles of Tetris, NOT!
+1273	Not so Flat After All
+1274	Probability One
+1275	Hop - Don`t Walk
+1276	Air Strike
+1277	Stock Chase
+1278	Land Division
+1279	Kind of a Blur
+1280	National Treasures
+1281	Simple task for Sharik
+1282	Simple task Pechkin
+1283	Banking reform
+1284	Honeycomb Walk
+1285	Goldbach Division
+1286	Tuck-shop
+1287	Tennis competitions
+1288	n-digit numbers
+1289	Lunch
+1290	License plate
+1291	Lucky number Masha
+1292	I want honey!
+1293	The average number of Masha
+1294	Weigh-cones
+1295	Twigs and bumps
+1296	Arithmetic Masha
+1297	Playing with knobs
+1298	Masha - chocolate, and Misha - bagel...
+1299	I want to honey, and more...
+1300	Only the branches...
+1301	 LampsGrid
+1302	Almost Prime Numbers
+1303	Ultra-QuickSort
+1304	What is the Median?
+1305	Childrens Game
+1306	DNA Sorting
+1307	The largest border
+1308	The biggest border of the substring
+1309	Blocks of string
+1310	The largest block
+1311	Fibonacci String
+1312	Wardrobe
+1313	Almost palindromes
+1315	A + B
+1316	Equal balls
+1317	Birthdays
+1318	Thick Coin
+1319	Duelists
+1320	Forest
+1321	Lucky Five
+1322	Matrix product
+1323	Triangles in the polygon
+1324	World Championship
+1325	Vas`kin track
+1326	Play hockey this...
+1327	Rooks on a chessboard
+1328	Drawings on a piece of paper in the box
+1329	Partition of the set
+1330	Tobo or not Tobo
+1331	Adding Sevens
+1332	Match Maker
+1333	Adding up Triangles
+1334	Relax! It’s just a game
+1335	Einbahnstrasse
+1336	Think I’ll Buy Me a Football Team
+1337	Musical Chairs
+1338	I Speak Whales
+1339	A Day at the Races
+1340	Diamond
+1341	LC-Display
+1342	Periodic Strings
+1343	Bad Substring
+1344	Personal files
+1345	Sports day for idlers
+1351	The highest digits
+1352	The number of primes
+1353	Segment in a coordinate system
+1354	The number of integers Mersenns
+1355	Number of N-digit numbers containing the digit 7
+1356	SMS voting
+1357	Zeros at the end of
+1358	How many Fibonacci numbers
+1359	Side of the square
+1360	Segment and a rectangle
+1361	Mathematical game
+1362	Axis of symmetry of the quadrilateral
+1363	Rectangles and nails
+1364	Magic square
+1365	Dijkstra Algorithm
+1366	Stock Exchange
+1367	Sky Code
+1368	Perfect Election
+1369	Lucky Cities
+1370	Build Your Home
+1371	Quick Answer
+1372	Lucky Numbers
+1373	GCD Determinant
+1374	Internet Service Providers
+1375	Base -2
+1376	The Bases Are Loaded
+1377	What Base Is This? 
+1378	Fibonaccimal Base
+1379	The Base-1 Number System
+1380	Palindometer
+1381	Balloons
+1382	Selling Cells
+1383	Not One Bit More
+1384	Abstract Extract
+1385	Roller Coaster
+1386	Spy Cam
+1387	Underground Cables
+1388	Petrol Stations
+1389	Buses
+1390	Car race
+1393	The Table
+1394	Calculator
+1395	Largest Empty Circle on a Segment
+1396	Problemsetting
+1397	Control Points
+1398	Gamers
+1399	Cosmic Station
+1400	Game
+1401	Proof Generator
+1402	Shares
+1403	Baloo arithmetic
+1405	Sticks
+1416	Paths on the board
+1417	Queen Move
+1418	Queen
+1421	Ships Approaching
+1440	Beautyful squares
+1445	Road network
+1451	Points symmetry
+1453	Ford-Bellman
+1454	Labyrinth of knowledge
+1455	Cycle
+1457	"Sort" station
+1460	Double reverse
+1462	Tricky Sorting
+1465	Navid The Judge
+1466	Hazhir, The King of SBU Jungles!
+1467	Point and Polygon
+1468	TripleK
+1469	Fibonacci Again!
+1470	Mine Field
+1471	Number Pyramid
+1472	Dungeon Master II
+1478	Rectangle
+1479	Rectangles-1
+1480	Rectangles-2
+1481	Rectangles-3
+1482	Matrix multiplication
+1483	Nim Matrix
+1484	Silver Matrix
+1485	Matrix Power Series
+1486	Points
+1497	Long root
+1498	KMP
+1499	Lines
+1500	Cyclic string
+1501	Conic Distance
+1502	Center of Masses
+1503	Circum Triangle
+1504	Maximal Quadrilateral
+1505	Segments intersection - 2
+1506	Crossed Ladders
+1507	The Laurel-Hardy Story
+1508	Rose windows
+1509	Kingdom Division
+1510	Circle through three points
+1511	Cake Division
+1512	Farey sequences
+1513	Pre, in and post
+1514	Hidden Truth in Recurrence
+1515	Repeated Josephus
+1516	Constructing BST
+1517	Simple Addition
+1518	Triangle Partitioning
+1519	Gray codes
+1520	Odd Divisors
+1521	Optimal Matrix Multiplication - 2
+1522	Optimal Binary Search Tree
+1523	Barcelona`s trams
+1524	Marks Distribution
+1525	A Grouping Problem
+1526	Grassland Fence
+1527	Image Traders
+1528	Counting Common Subsequences
+1529	Fence Repairing
+1530	Extended Happy Numbers
+1531	Keys In Boxes
+1532	Hands Shaking
+1533	Anagram generation
+1534	Divisibility
+1535	Skyscrapers
+1536	Sweet Child Makes Trouble
+1537	Stripe
+1538	Thinking Backward
+1539	How Many Points of Intersection?
+1540	23 out of 5
+1541	Series of Powers
+1542	The ? 1 ? 2 ? ... ? n = k problem
+1543	Back to High School Physics
+1544	Rare Easy Problem
+1545	Can You Solve It?
+1546	Ants
+1547	Necklace
+1548	Diagonal
+1549	Barbarian tribes
+1550	Bitwise Equations
+1551	Correcting Parenthesization
+1552	Fast Postman
+1553	Platform Jumper
+1554	Forbidden Strings
+1555	Mega Cool Numbers
+1556	Wild Card
+1557	Bracket Maze
+1558	Rube Goldberg Device
+1559	Elective System
+1560	Decreasing Number
+1561	RSA Attack
+1562	Modular Equations
+1563	Send a Table
+1564	Number Theory
+1565	Play with Floor and Ceil
+1566	Gergs cake
+1567	Sum And Product
+1568	Product Triplet
+1569	Divisors
+1570	Be Efficient
+1571	What is the Probability?
+1572	Coupons
+1573	Cows and Cars
+1574	Dice Throwing
+1575	God! Save me
+1576	The Lost Gift
+1577	So you want to be a 2^n-aire?
+1578	Probability Given
+1579	Triple Jump
+1580	Prime Soccer
+1581	The Dice Game
+1582	Laser Shooting
+1583	Shooting Gallery
+1584	Random Shuffle
+1585	Two Lottery Games
+1586	The postfix record
+1587	Barbershop
+1588	Barge
+1589	Balloons
+1590	Birthday 2
+1591	Shoemaker Problem
+1592	Bridge
+1593	Elegant permuted sum
+1594	Encoded Sum
+1595	Fill the Box
+1596	Pancakes
+1597	Grouped Word
+1598	Food Collecting
+1599	Dynamic Frog
+1601	GCD of two numbers
+1602	LCM of two integers
+1603	The sum of digits
+1604	The product of even digits in a number
+1605	Second digit of the number
+1606	The sum of the first and the last digits in the number
+1607	The number in reverse order
+1608	The number-palindrome
+1609	The number of specified digits
+1610	Rabbits in the cells
+1611	Reverse a substring
+1612	Change the one
+1613	Two numbers and the four actions
+1614	Angles of triangle
+1616	Prime number?
+1617	Blowing up the roads
+1618	The Longest Common Subsequence
+1619	House Robber
+1620	Monk the Charles Greats
+1621	The sum from 1 to n
+1622	Orange barrels
+1623	Even and odd numbers
+1624	Day after tomorrow
+1625	Judging Olympia
+1626	Hide That Number
+1627	Rotating Rings
+1628	A Tale from the Dark Side of the Moon
+1629	Fermat`s Christmas Theorem
+1630	Incidental Points
+1631	Let`s Go to the Movies
+1632	The Writer`s Club
+1633	Moving Sticks
+1634	Johnny Hates Math
+1635	Alien Visit
+1636	Big Number
+1638	Distance
+1641	Golden Spire
+1642	Hometask
+1644	Joke
+1645	Binary number
+1647	Reset bits
+1648	Fenwick Function
+1649	Bit sorting
+1650	Decoding Task
+1651	Maximal XOR
+1653	Brackets
+1654	Rabbit Hunt
+1655	The Least Common Multiple
+1656	Sorting
+1658	Factorial
+1660	Game
+1661	Aladdin's knapsack
+1663	Bracket sequences
+1670	The average distance
+1671	Candy
+1672	Olympiad
+1681	Sum of digits
+1682	Spiderman
+1683	Tourist Routes
+1684	Mobile tariff "Cents"
+1685	Lands of Antarctica
+1686	Fire
+1687	Digits
+1688	Inheritance
+1689	Durak game
+1696	The magic number 23
+1697	How to become a winner
+1698	Vasya and his friends
+1701	Square Counting
+1702	A Greener World
+1704	Clever turtle
+1705	A bit sequence of the Arnold
+1706	Pinocchio
+1707	Building with Blocks
+1709	Continuous Drawing
+1710	Counting Quadrilaterals
+1713	Genetic Code
+1716	Getting Chorded
+1717	OULIPO
+1721	Matches
+1722	Sum it up
+1723	Colored Balls
+1726	Customs duties-1
+1727	Customs duties-2
+1728	Customs duties-3
+1729	A + B Problem
+1738	Filling with domino
+1739	A + B
+1741	Blockade
+1742	Apple from the tree...
+1743	Three Cities
+1744	Dots and lines
+1745	The mafia in the city
+1746	Rook in the maze
+1747	Space Travel
+1748	Transport nodes
+1749	Orange mood
+1750	The product of graphs
+1751	Permutation Representation
+1753	Lowest Bit
+1756	Optimal Programs
+1758	A + B Problem
+1759	Cute table
+1761	Cute patterns 1
+1762	Numbers
+1765	Three sequences
+1766	Cell Phone Network
+1767	Diamonds joker
+1768	Schedule
+1770	The monkey and the coconuts
+1774	Common Subsequence
+1776	Rails
+1778	The Bank Cards
+1779	Weighted Dice
+1781	Assignment problem
+1782	The sum of divisors
+1784	K-permutation
+1785	Patterns
+1788	Inverse permutation
+1789	Degree of a permutation
+1790	Restore the permutation
+1792	Password Search
+1796	Diameter of the graph
+1801	Parenthesis
+1802	Ropes
+1803	Chain Code
+1804	Task
+1805	Page Count
+1806	Soccer
+1807	Railroad
+1808	Post Office
+1809	Aronson
+1810	Judges` Time Calculation
+1811	Mad Scientist
+1812	Voting
+1813	Queen Collisions
+1814	Mirror, Mirror on the Wall
+1815	Top This
+1816	Quick Search
+1817	Image Compression
+1818	Egyptian Fractions
+1819	Lawn mower
+1820	Periodic points
+1821	Comparing Answers
+1822	Fake scoreboard
+1823	Palindromic DNA
+1824	Jamping monkey
+1825	Sensor network
+1826	Assembly line
+1827	Locks and keys
+1828	3-sided dice
+1829	Tangent to the sphere
+1830	The distance between the segments
+1831	Cones
+1832	Sniper
+1833	Convex hull of the 3D - 1
+1834	Direct
+1835	The mutual arrangement of lines
+1836	Convex hull of the 3D - 2
+1837	Convex hull of the 3D - 3
+1838	The distance from the point to the segment
+1839	Cylinder
+1840	Cut the watermelon
+1841	DNA Robot
+1842	Triangle
+1843	Coins
+1844	Equation
+1845	U-turn bits
+1846	AVL-trees
+1847	Polynomial
+1848	Bifurcation
+1849	Equation 2
+1850	U-turn bits 2
+1851	Duel 
+1852	Product
+1853	Sphere
+1854	Triangular King
+1855	Tent
+1856	Championship on fungi Sports
+1857	Vinnimobil
+1858	Rhyme scheme
+1859	Miners
+1860	Present for Piglet
+1861	Dice
+1862	Five-star challenge
+1863	Strong tiling
+1864	Hamilton Pipeline
+1865	Hexagon and rhombic domino
+1866	Cute patterns 2
+1867	Cards
+1868	Function
+1869	Paths on the board
+1870	Testing shuffle machines
+1871	Squirrel and bamboo
+1872	Snowmen
+1875	The longest path
+1881	Connect and Disconnect
+1884	CHM
+1889	Battlefield
+1890	Breaking a table of records
+1891	Chine
+1892	Construction of warehouse
+1893	Force the hero
+1894	Caravans
+1905	Minimum degree of prime
+1906	Anniversary
+1907	Trade
+1908	Grid
+1909	Drawing
+1910	Empire
+1911	Reform
+1912	Constellation
+1913	Presents
+1914	ICPC
+1915	Numbers
+1916	English
+1917	Diamond
+1918	Puzzle
+1919	Automatic Input Verifier
+1920	Friendly Points
+1921	Expanding Lake
+1922	Octahedron And Dominoes
+1923	Tiny Puzzle
+1924	Circular Island
+1925	Traffic Jam
+1926	Number of Permutations
+1927	Perspective
+1928	Enjoy Arithmetic Progressions
+1929	Copletely Non-zero Determinant
+1930	Fast Typing
+1931	XYZX 2009
+1932	Greatest Greatest Commom Divisor
+1933	Colored Wizards
+1934	Graph of operations
+1936	Flights
+1937	Fire safety
+1941	Parent
+1943	Bridges
+1945	Articulation Points
+1947	Condensation of the graph
+1948	Topological Sort
+1949	Cake
+1950	School algebra
+1951	IP-address
+1952	Contr-operation
+1953	The results of the Olympiad
+1954	Mosaic
+1955	Calendar
+1956	The young hacker
+1957	Silver medal
+1958	Divided it?
+1959	Deletion
+1961	Forest dwellers
+1963	Theater
+1964	What is left?
+1965	Rank
+1966	A big plus
+1968	Balls
+1979	Railroad
+1980	Eustace-Alex
+1981	Mushroom
+1982	Highways
+1985	Primes Masha
+1986	Masha and the palindrome
+1987	The Next Permutation
+1988	The largest increasing subsequence
+1990	Domino 2
+1991	Maximum flow
+1992	Dividing the graph
+1993	Weighing
+1994	Brackets
+1997	Approximation of progression
+1998	Torah
+1999	Palindrome
+2000	Minefield
+2001	The survey instrument
+2003	Cellular Telecommunications
+2004	Routing
+2005	Weighing 2
+2006	Plus and xor
+2009	Points
+2012	Sequence
+2014	Lucky Number
+2016	Resale of tickets
+2017	Determinant of the matrix
+2018	Minimal d-rate
+2019	Fibonacci sequence
+2021	Tree
+2023	Distance to Polygon
+2024	A triangle of maximal area
+2025	Complex game XOR
+2026	LOGO
+2028	y = sin x
+2029	Ring
+2030	y = cos x
+2031	Fibonacci sequence
+2032	y =| sin(2x)|
+2033	Minimum number of bills
+2034	WERTYU
+2035	Crypt Kicker
+2036	Age
+2037	Crypt Kicker II
+2040	Common permutation
+2041	The day of the competitors
+2042	Monthly and quarterly
+2043	Quarter
+2044	Month
+2045	Four segments
+2046	y =| cos(2x)|
+2047	Almost Union-Find
+2048	Broken Keyboard (a.k.a. Beiju Text)
+2049	Cake Cutting
+2050	Dynamic Inversion
+2051	Easy Problem from Rujia Liu?
+2052	Fast Matrix Operations
+2053	Girls`Celebration
+2054	Happy Painting!
+2055	I Can Guess the Data Structure!
+2056	Jewel Magic
+2057	K Smallest Sums
+2058	Rujia Liu loves Wario Land!
+2059	Lake with lilies
+2060	Tale about an apple
+2061	Young Programmers
+2062	Lilavati
+2063	Vasya`s arithmetic
+2064	Vasya`s arithmetic 2
+2065	Vasya and prime numbers
+2066	Vasyas triangles
+2067	Gemini
+2068	Smart dog
+2069	Vasyas tickets
+2070	Strange ice hockey tournament
+2074	The cyclic suffixes
+2076	Towers
+2079	Number of inversions
+2097	Three digit numbers
+2098	Invertor
+2099	Two arrays
+2102	Square
+2103	Knapsack
+2106	Amount
+2107	Horatio Riddle
+2108	Reversal sequence
+2113	Amusement Park
+2115	Garden of the Permian
+2129	Polar angle of a point
+2130	The angle between the vectors
+2131	Vector length
+2132	Point on a line
+2133	Point on a ray
+2134	Point on a segment
+2135	The position of points outside the line
+2136	The distance from a point to direct
+2137	Distance from the point to the beam
+2138	The distance from the point to the segment
+2139	The intersection of two segments
+2140	The distance between the segments
+2142	Equation of the line II
+2143	The intersection of two lines
+2144	The distance from a point to direct
+2145	Parallel line
+2146	Bisector
+2148	Convex polygon
+2149	Point in polygon
+2150	Triomino
+2151	Au reservoir
+2152	The Flight Way
+2153	Probablisctic OR
+2154	Party
+2155	Strong-Willed Victory
+2156	Segment Sum
+2157	Sum
+2158	Distance Between Lletters
+2159	String potential
+2160	Fruits
+2162	Palindrome
+2163	Divide on three!
+2164	Julius Caesar Cyfer
+2165	Extra spaces
+2166	Anagrams
+2169	Permutations
+2171	Find a set of patterns 1
+2172	Find a set of patterns 2
+2174	Yandex
+2175	Palindromes
+2176	Trees Made to Order
+2177	Function Run Fun
+2178	Binary Multiplication
+2179	Palindromic Subsequence
+2188	Delaunay triangulation
+2189	Replica Placement
+2201	UFO
+2202	Programming Technology
+2203	Roads
+2204	Weak k-connectivity
+2206	Minibuses
+2207	Electric train 
+2214	Function 9
+2217	Attack of aliens
+2219	Snow White and n gnomes
+2220	Playing with graph
+2221	About love...
+2222	Matches for children are not toys!
+2224	Number
+2226	Zoo
+2227	Necklace of Beads
+2228	Color
+2231	The Vanishing
+2238	Who will get the "avtomat"?
+2245	Super numbers
+2246	Superstring
+2249	Super sum
+2250	Super calculator
+2259	Bug2
+2260	Commuting Functions
+2261	Defense of a Kingdom
+2262	Explicit Formula
+2263	Frames
+2264	Gadgets Factory
+2265	Horrible Truth
+2266	Ideal Contest
+2267	Journey
+2268	Kitchen Robot
+2269	Connected components
+2270	Find a cycle
+2277	Governor
+2280	Job or joy
+2281	To Add or to Multiply
+2282	Af&#64257;ne Mess
+2283	Ancient Messages
+2284	Chips Challenge
+2285	Coffee Central
+2286	Machine Works
+2287	Magic Sticks
+2288	Mining Your Own Business
+2289	Mummy Madness
+2290	Pyramids
+2291	Trash Removal
+2292	Fibonacci number
+2293	March 8
+2294	Convex Hull
+2295	How to Make Money
+2296	The thread
+2297	Biorhythms
+2298	Marbles
+2299	Theodore Roosevelt
+2300	Internal point
+2301	A Needle in the Haystack
+2302	Nuts for nuts
+2303	Phone List
+2304	Horrible Queries
+2306	Steps
+2307	The sum
+2308	Stars
+2309	Windows
+2312	Height of the Tree
+2313	Number of elements
+2314	Second Maximum
+2316	Print leaves
+2317	LCA offline (Easy)
+2318	LCA Problem Revisited (Easy)
+2321	Sorting
+2322	Columns
+2323	Numbers from digits
+2324	Scatter
+2325	Two numbers
+2326	Socks
+2327	Counting sort
+2334	Mad tea Party
+2335	Thief of clay
+2351	Dijkstra
+2352	Little Bishops
+2353	Tug of War
+2356	Substring
+2357	Cake
+2362	Who is longer?
+2363	Fibonacci subsequence
+2371	Black Square
+2372	Cube Coloring
+2373	Dice
+2374	Electri&#64257;cation
+2375	Flat
+2376	Galaxy Interconnection
+2377	High security
+2378	Immediate Delivery
+2379	John`s Inversions
+2380	Kids Like Cakes
+2381	Two times two
+2382	Grafix Mask
+2383	Electrical Wires
+2384	Sorting Game
+2385	The number of permutations
+2386	The next permutation
+2388	Number of permutation
+2389	The following combination
+2390	Partitions into summands
+2391	Cost of call
+2392	Interesting Sum
+2393	Point and a rectangle
+2394	Number
+2395	Semiperfect number
+2396	The number of English
+2397	Windows
+2398	Circle and segment
+2399	Book
+2400	Triangles
+2401	Breadth First Search
+2402	(p, q) - horse
+2403	Strong connectivity
+2404	Games on graph
+2408	Pawn Game
+2413	A-B
+2415	Disc number
+2416	Strange number
+2417	Multiplication
+2419	Order
+2420	Serrated sequence
+2421	Fibonacci numbers
+2422	How many ways?
+2423	Divisibility by 4
+2424	The desired quantity
+2425	System Fibonacci
+2426	The smallest unimaginable
+2440	n-th Largest Value
+2441	Equal Sum Partitions
+2442	Balls
+2443	Running Median
+2445	Adjacent Bit Counts
+2446	Convex Hull of Lattice Points
+2447	Interior Points of Lattice Polygons
+2448	Theta Puzzle
+2449	Fair Division
+2450	Free Goodies
+2451	High Score
+2452	Hill Driving
+2453	Rankings
+2454	Risk
+2455	Selling Land
+2456	Stock Prices
+2457	Telephone Network
+2458	Wormly
+2463	Period of a string
+2467	KINA is not abbreviation
+2470	Checking for an undirected graph
+2471	From adjacency matrix to the list of edges
+2472	Operations on graph
+2479	Parentheses Balance
+2481	Linear Device
+2484	Sequence Formatting
+2496	String concatenation
+2507	Border
+2509	The post office
+2523	Fibonacci Strings
+2524	Fibonacci String
+2525	Fibonacci String
+2526	Concatenation
+2528	Diophantus of Alexandria
+2530	Traveling Queen Problem
+2531	Mine Map
+2532	Knights of the Round Table
+2533	Honeymoon Hike
+2534	Relocation
+2536	Kick-Tipp
+2537	Elephant show
+2538	Encoding binary numbers
+2539	Chorus
+2540	Length and frequency of sentences
+2542	Form guide
+2544	uHunt
+2549	Papa Carlo
+2550	Not so trivial problem
+2551	Sort by sum of digits
+2552	Roman numerals
+2554	Magic Square
+2556	Space competition
+2557	Color game
+2558	Serial Numbers
+2559	Processor`s game
+2561	Safety Grade
+2562	Search by template
+2563	Roots Intervals
+2564	Palindromic Dates
+2566	Choosing a camera
+2568	Term Generator
+2569	Painting
+2570	Age of Retirement
+2571	Bridges
+2573	Dining Room
+2576	G. tourist
+2579	Jams
+2581	Lamps of the Mind
+2586	Dividing the Gold
+2587	Traffic Lights
+2588	Symmetry
+2590	Space Exploration
+2592	Rectangles intersection
+2596	TC100
+2599	Generic Cow Protests
+2606	Minimum and maximum
+2607	Divisibility by 11
+2608	Amount of information
+2609	Almost primes
+2610	Large numbers
+2613	Maximum sum
+2614	GNCHE-1
+2615	Archiving
+2617	Birthdays
+2619	Lucky ticket 2
+2620	Lemon Tale
+2621	Kings Tour
+2622	Reliable Nets
+2623	Bisectors
+2624	Warp Speed
+2625	High-Precision Number
+2626	Configurations
+2627	Two Longest Paths
+2628	A Minimum Land Price
+2629	Hacker`s Crackdown
+2630	Shuffle
+2631	Maximum GCD
+2633	Cookies
+2635	Detonating cord
+2641	Paper Route
+2642	Octagons
+2643	Party Location
+2644	Numbersrebmun
+2645	Class Schedule
+2646	Tetris Alphabet
+2647	Network Saboteur
+2648	Burned Calendar
+2649	Longest Ordered Subsequence
+2650	Falling cards
+2651	Very Simple Problem
+2652	Rock Skipping
+2653	Decimal
+2656	Queen of angle
+2658	Chocolate
+2659	Children matches are not toys! - 2
+2660	Terminator
+2661	Price labels
+2662	Minimum method
+2663	Bubble sort
+2667	Snake
+2669	Rotation
+2673	Giant numbers
+2674	Reduce a fraction
+2675	The Agency
+2677	Condorcet Winners
+2678	Everyone out of the Pool
+2679	The Banzhaf Buzz-Off
+2680	GPS I Love You
+2681	Have You Driven a Fjord Lately?
+2682	Mobile
+2683	Wally World
+2685	Sequence
+2687	SumOfPowers
+2688	Platforms
+2696	Genealogical Tree
+2697	Staircase
+2701	Homework
+2703	The perfect party
+2704	The Roman numeral system
+2705	The union the sequences
+2706	Splitting into factors
+2707	Danger of explosion
+2708	Construction
+2710	Pascal`s triangle
+2711	Peter and the number
+2712	The problem of Queens
+2713	The Fibonacci sequence
+2714	Signboard
+2715	Flying Saucers
+2716	For five rubles
+2717	Babel
+2718	Repetition
+2719	Goat in the garden
+2720	Goat in the Garden - 2
+2721	Goat in the Garden - 3`
+2722	Goat in the Garden - 4`
+2723	Goat in the Garden - 5
+2724	Sequence Folding
+2725	Co-prime
+2726	Wimbledon
+2727	Manhattan Sort
+2728	Cipher
+2729	Big Division
+2731	Crank
+2733	The sum of powers of two
+2734	Crazy Bits
+2735	Maximum forest cover digraph
+2736	ClosedCup
+2740	"Penguin"
+2741	WoW
+2751	Iterated Difference
+2752	Shape Number
+2753	Stock Prices
+2754	Contour Tracing
+2755	Pills
+2756	Robot Navigation
+2757	User Names
+2758	Citizenship Application
+2759	Wealthy Family
+2760	Supply Mission
+2761	A Simple Problem
+2762	Bacon`s Cipher
+2764	Annealing peaceful queens!
+2766	Length of S(n)
+2767	Square palindrome
+2768	Layout of the city
+2769	The Special Number
+2770	Matrioshkas
+2771	Like 3
+2772	DDR3
+2773	Tourist
+2774	Dividers
+2775	Railway
+2782	Triangle
+2792	Rectangle
+2794	Divisors
+2796	The extra digit
+2802	Bitset
+2807	Cubes - 3
+2813	Binary Stirling Numbers
+2814	Fast Exponentiation
+2816	Simple game
+2817	Binary Numbers
+2820	Knight Moves
+2821	Checkpoint
+2822	Recover the Sequence
+2823	Squished Status
+2824	Road Removal
+2826	Guess
+2828	Polynomial
+2831	HTML
+2832	B-stock
+2845	Aaa
+2846	Bachelor pursuing
+2847	Concatenation of credits
+2848	DeviantArt
+2849	Exam
+2850	Fate to hate
+2851	Genealogic tree
+2852	Happy Birthday
+2853	I love Ira
+2854	Justice
+2855	Knife to me
+2856	Lie to me
+2858	Now
+2859	Monad
+2860	Sum of integers on the interval
+2861	Sum of odd numbers
+2862	Number of divisors
+2863	Odd divisors
+2864	Function tabulation
+2875	Changing on a Segment (High)
+2882	Word Periods
+2883	Arithmetic Encoding
+2887	PreQueL
+2888	Sigma-function on a segment
+2889	Autotourism
+2890	Perfect Powers
+2891	Spell Checker
+2892	Sum of values
+2894	Suffix array
+2895	Arctic Foxes
+2896	La cucaracha
+2903	Parking
+2904	Rook Attack
+2905	Light Switching
+2906	Can you answer these queries - 1
+2908	SumThem All
+2909	Multiples of 3
+2910	ABCDEF
+2911	Maximum Sum
+2912	Glass Beads
+2915	XOR pairs
+2922	Union of rectangles 2
+2923	Tree
+2926	Combined rectangles
+2927	Sets Union
+2931	Dima and a famous tourist
+2932	Dima and strings
+2933	Dima and computer game
+2934	Dima and permutation
+2935	Dima and percentages
+2936	Dima & module
+2937	Dima and machine of time
+2938	Dima and machine of time
+2939	Dima and array 1
+2940	Dima and large array
+2941	Dima and array
+2942	Dima and table
+2943	Dima and table
+2951	Count Offline
+2952	Count Online
+2955	Persistent Array
+2957	Persistent List
+2964	Magnetic Cushions
+2965	Distance betweeen the vertices
+2966	Pink Floyd
+2967	Unification Day
+2968	Shortest Paths
+2970	Swap
+2995	The extra digits
+2996	Corruption
+2997	Friday - 13
+2998	Leaf in the cage
+2999	Function-10
+3002	Tournament
+3003	Suitable pairs
+3004	Queue
+3010	Noisy neighbors
+3011	No left turns
+3012	Cards
+3013	Magic Parenthesis
+3014	Maze
+3015	Camouflaged camp
+3016	Ancient Manuscript
+3017	Bus Trip
+3018	Polygon
+3019	Typesetting
+3020	The Seven Percent Solution
+3021	Slink
+3022	Persistent Bits
+3023	Here We Go(relians) Again
+3024	Electronic Document Security
+3025	Guard
+3026	Rock Skipping
+3030	Micro and Tree
+3043	Class Statistics
+3044	Avoiding a disaster
+3045	Roll Call
+3046	Difficult Routes
+3047	Real Phobia
+3048	Insidious Branding
+3049	Help-or-else
+3050	Pahom on Water
+3051	Detour Buster
+3052	Oil Skimming
+3053	Numbers Game
+3058	Bishops
+3059	Minimizing maximizer
+3060	Atlantis
+3061	Inner Vertices
+3063	Camelot
+3064	Alphabet Soup
+3065	Coin Collecting
+3066	Cybercrime Donut Investigation
+3067	Distributing Ballot Boxes
+3068	Game, Set and Match
+3069	Guess the Numbers
+3070	Non-negative Partial Sums
+3071	Peer Review
+3072	Regular Convex Polygon
+3073	Remoteland
+3074	Graph Theory
+3075	Minimal Matrix
+3076	Nothing On TV
+3077	Avoiding Partitions
+3078	Points and Lines
+3079	Reversing Prefixes
+3080	Inverse Range Minimum Query
+3081	Road Signs
+3082	Triangular Tiling
+3083	Wikipidia
+3084	XOR
+3085	Zombie`s Treasure Chest
+3086	Yummy Triangular Pizza
+3087	Xavier is Learning to Count
+3088	Winmine.exe
+3089	Very Boring Homework
+3090	Universal Question Answering System
+3091	Triangles and Quadrangle
+3092	Share the Cakes
+3093	Revenge of Fibonacci
+3094	Quelling Blade
+3095	Water Gate Management
+3096	Binary Search Tree
+3097	Fun Coloring
+3098	Twin Apparent Primes!!
+3099	Queen Game
+3100	Spelling Suggestion
+3101	Coalescing Continents
+3102	Fence Making
+3103	Paths in a Tree
+3104	Consecutive Sums
+3105	Grade School Multiplication
+3106	Laser Tag
+3107	Pizza Pricing
+3108	Su-domino-ku
+3109	Refrigerator Magnets
+3110	Shut the Box
+3111	Sokoban
+3112	Crash and Go(relians)
+3113	Stifling the Mutiny
+3114	RNG in Reverse
+3115	Attack of the Giant n-pus
+3116	Polly Wants a Cracker
+3117	Rolling Dice
+3119	Secret Island Base
+3120	Stealth Ninja
+3121	In and Out
+3122	Shuriken Game
+3123	Popping Balloons
+3124	Quick out of the Harbour
+3125	Find the Treasure
+3126	Bad Wiring
+3127	Peaceful Comission
+3128	Ultimate Finishing Strike
+3129	Doubloon Game
+3130	Walking the Plank
+3131	Parking Ships
+3132	Treasure Map
+3133	Range
+3134	Coverage
+3135	XML
+3136	Clickomania
+3137	Balance
+3138	Resistors
+3139	Shuffling
+3140	Papa
+3141	Wax
+3162	Graph
+3163	Graph Coloring
+3165	Bicoloring
+3166	Asteroids collision
+3167	Most distant points pair
+3168	Minimum area bounding box
+3169	Burn after reading
+3170	Clear after burning
+3172	Tower Game Easy
+3173	Tower Game (Hard)
+3174	North East King
+3175	Upper Right King (Hard)
+3178	Prisoner of Benda
+3179	Four Chips (Easy)
+3180	Four Chips (Hard)
+3181	Regular expressions (Easy)
+3182	Regular expressions (Hard)
+3183	Join
+3184	Boards (Easy)
+3185	Boards (Hard)
+3186	Invisible point
+3187	Calculator
+3188	Miles and kilometers
+3189	The Triangle
+3191	The Primes
+3196	Make a Sequence
+3197	Leaky Cryptography
+3199	Confusing Login Names
+3200	Dice Puzzle
+3201	Color the Map
+3202	Inherit the Spheres
+3203	Crossing Prisms
+3204	Array games
+3205	Birthday
+3206	The Safest Path
+3207	Double Necklace
+3208	Rabbit Olympics
+3209	Palindrome
+3210	Hyper Harmonic number
+3211	Holidays
+3212	Instant messaging system
+3213	Dolphins
+3214	Trains and rabbits
+3215	Rabbit`s planet
+3216	Stringorial
+3217	New Year
+3218	Rectangles
+3219	Stockbroker Grapevine
+3220	Frame Stacking
+3221	Channel Allocation
+3222	Alien Security
+3223	Octal Fractions
+3224	Cracking the Code
+3225	Euro Efficiency
+3226	Markov Trains
+3227	Hansel and Grethel
+3228	Floors
+3230	Pearls
+3231	Huffman Trees
+3232	Input
+3233	k-perfect numbers
+3234	Quadratic equation 1
+3235	Interesting number
+3236	Travel
+3237	The algorithm of Petya
+3238	Children`s shop
+3239	Mertens function
+3240	Funny game
+3241	The inverse problem
+3242	The equation of LCM
+3243	GCD-determinant
+3244	Some of the roots
+3245	Quadratic equation 2
+3246	The sum of digits
+3247	Fermat
+3248	Bicolored Horses
+3249	Ship Routes
+3250	Bridging signals
+3251	Testing the CATCHER
+3252	Range Sum Query
+3253	Subsequence
+3254	01110001, That Is the Question
+3255	Arithmetic
+3256	AFA Function
+3257	Save Walle
+3258	Fibonacci Sequence
+3259	Factors
+3260	How Many?
+3261	Prime Factors
+3262	Trolling
+3263	How to Glue a Number?
+3284	Carpenters` Language
+3285	Kth Sentence
+3286	Light Road
+3288	Multi Ending Story
+3289	Network Reliability
+3290	Runaway Domino
+3291	Sunny Graph
+3293	World Trip
+3294	Who has won?
+3295	The most valuable figure
+3296	Chess from "Harry Potter"
+3297	The task of the employer
+3298	LCA
+3299	LCA - 2
+3300	LCA - 3
+3302	Billboard
+3303	Brave Balloonists
+3304	Era Name
+3305	Step Step Evolution
+3306	Dungeon Quest II
+3307	Dice Room
+3308	Alice and Bomb
+3309	Two-Wheel Buggy
+3310	Camera Control
+3312	Operator
+3313	Merry Christmas
+3317	Dragon`s Question
+3318	Enigmatic Device
+3319	Four Points
+3323	Jealous Numbers
+3325	Worst Locations
+3326	Counting BST
+3327	Playing With Stones
+3328	Arm Wrestling Tournament
+3329	Lightning Energy Report
+3330	Transitive Closure
+3331	Just Sum It
+3332	Serial Numbers
+3333	Romantic Date
+3334	Fire Drill
+3335	Sunday Drive
+3336	Hexagram
+3337	Flooring Tiles
+3338	Vive la Difference!
+3339	Robot Navigation
+3340	Folding Game
+3341	Burnout
+3342	Family Fortune
+3343	Moving Points
+3344	Vampire Numbers
+3345	Period
+3346	Corporative Network
+3347	Cave Exploration
+3348	City Game
+3349	Cube Root
+3350	Cable TV Network
+3351	Alibaba
+3352	Booklets
+3353	Count on Canton
+3357	Excellent!
+3358	Black box
+3359	Cubes
+3360	Running-track
+3361	Game
+3362	Coloring
+3363	Beautiful name
+3364	Always Follow the Rules in Zombieland
+3365	Zombie Containment
+3366	Mesmerization of The Count
+3367	Zombie Swallows
+3368	Decomposing Fibonacci Numbers
+3369	Pride and Prejudice and Zombies
+3370	Tales from DeCrypt
+3371	A Smart Brain is a Tasty Brain
+3372	Containing Zombies and Respecting Building Codes
+3373	Save the Python Programmers!
+3374	Zombie Blast!
+3375	Another Rock-Paper-Scissors Problem
+3376	Ball Painting
+3377	City Driving
+3378	Drunken Walk
+3379	Empty Triangles
+3380	Fighting for Triangles
+3381	Guessing Game
+3382	Hidden Code
+3383	Identity Checker
+3384	Dispatching
+3385	Guard
+3386	Kunai
+3387	Asteroid Rangers
+3388	Curvy Little Bottles
+3389	Bus Tour
+3390	Fibonacci Words
+3391	Infiltration
+3392	Keys
+3393	Minimum Cost Flow
+3394	Room Service
+3395	A Safe Bet
+3396	Shortest Flight Path
+3397	Stacking Plates
+3398	Takeover Wars
+3399	Bicube
+3400	Bubble Puzzle
+3401	Fair Game
+3402	King Slime
+3403	Rabbit Game Playing
+3404	Rabbit Jumping
+3405	Shelter
+3406	Sightseeing Tour
+3407	Tampopo Machine
+3408	Top of the Hill
+3409	Tin Man and the Gummi Bears
+3410	Maximum Clique
+3411	Maximal Clique
+3412	Fat Hobbits
+3413	Revenge of Voronoi
+3415	Dinner
+3416	Finding cliques
+3417	Good Graphs
+3418	Clique
+3419	Optimization of Combinatorial Circuits
+3420	Divisor Function
+3421	Magical Dungeon
+3422	Land Mark
+3423	Networking Company
+3424	Alien Pianist
+3425	Japanese Style Pub
+3426	Two Rings
+3427	Text Justi?cation
+3428	Billion Million Thousand
+3429	Gift from the Goddess of Programming
+3431	Weaker than Planned
+3432	Long Distance Taxi
+3433	Driving an Icosahedral Rover
+3434	City Merger
+3435	Captain Q`s Treasure
+3436	ASCII Expression
+3437	Encircling Circles
+3438	Round Trip
+3439	Yet Another Rooks Problem
+3441	Ostap`s Chess
+3442	Archer`s Travel
+3443	Chess Tableaux
+3446	Peaceful Rooks
+3447	Crazy King
+3449	Drunk King
+3452	Hungry Queen
+3454	A Knight`s Journey
+3455	Chessboard in FEN
+3456	Queens, Knights and Pawns
+3457	Hungry Queen 2
+3458	King
+3459	Membership Management
+3460	Balloon Collecting
+3461	Towns along a Highway
+3462	Awkward Lights
+3463	The Two Men of the Japanese Alps
+3464	Find the Multiples
+3465	Test Case Tweaking
+3466	Where`s Wally
+3467	Intersection of Two Prisms
+3468	Matrix Calculator
+3469	Gridland
+3470	Byteland Tour
+3472	Unidirectional TSP
+3473	The Cyber Traveling  Salesman
+3475	Tour
+3476	Collecting Beepers
+3477	Traveling Shoemaker Problem
+3478	Traveling Salesman
+3485	GCD Guessing Game
+3492	Red/Blue Spanning Tree
+3493	Tantrix
+3494	Inspector is Coming
+3495	Party Schedule
+3496	Subset Sums
+3498	Sum of Different Primes
+3499	Summing Subsets
+3500	Prison rearrangement
+3502	Square
+3504	Ticket to Ride
+3505	Root NIM
+3506	Hexagonal Parcels
+3507	Fabrozavrs-designers
+3521	Sudoku
+3522	Sudoku
+3525	Sudoku
+3526	Anniversary Party
+3527	DNA Subsequences
+3530	It`s Ir-Resist-Able
+3531	Happy day?
+3532	Interesting polygon
+3535	Vasya and matrix
+3539	Enemy Towers
+3541	Alien`s Counting
+3542	Kaeru Jump
+3543	Save your cats
+3544	Dungeon Wall
+3545	Psychic Accelerator
+3546	Bouldering
+3547	DON`T PANIC!
+3548	Ropeway
+3549	How to Create a Good Game
+3550	Cruel Bingo
+3551	Repeating Characters
+3552	The Rascal Triangle
+3553	Programming the EDSAC
+3554	Decoding EDSAC Data
+3555	Route Redundancy
+3556	QR
+3557	Rancher`s Gift
+3558	Maximum in the Cycle of 1
+3559	The Golden Ceiling
+3560	Asynchronous Exceptions
+3561	AYBABTU
+3562	Billiards Sorting
+3563	Digit
+3564	Dungeon Creation
+3565	Longest Lane
+3566	Play in Basic
+3567	Skyland
+3568	Three-way Branch
+3569	Tree Allocation
+3570	Good or Bad?
+3571	Bracelets
+3572	A Classic Myth: Flatland Superhero
+3573	Collateral Cleanup
+3574	LatticeLand
+3575	Lightning Lessons
+3576	Locksmith
+3577	Speed Racer
+3578	The Status is Not Quo
+3579	Stupendous Man
+3580	Tree Count
+3581	A Famous Music Composer
+3582	A Famous Airport Manager
+3583	A Famous ICPC Team
+3584	A Famous Stone Collector
+3585	A Famous Equation
+3586	A Famous King`s Trip
+3587	The Famous ICPC Team Again
+3588	A Famous City
+3589	Two Famous Companies
+3591	A Famous Grid
+3592	The Famous Clock
+3593	Infinity Maze
+3594	Butterfly
+3595	Chinese Classics
+3596	Revenge of Champernowne Constant
+3597	Full Text Search
+3598	Mysterious Maze
+3599	Number Sorting
+3600	Sky Jump
+3601	Mobile Network
+3602	Blue Forest
+3607	Sort by growth
+3613	Olympic luggage
+3618	Hit and Blow
+3619	Turn Left
+3620	!
+3621	Speed
+3622	Spirograph
+3624	Repeated Subsequences
+3625	Petoris
+3626	Pythagoraslope
+3628	Brackets Sequence
+3641	Maximum Flow B
+3642	Edges removal 
+3648	Sequence
+3650	How many different?
+3661	Railway Tickets
+3682	Fire in the Country
+3702	Divisors of the number
+3708	Droid flies
+3728	Cut a graph
+3733	Least Common Multiple
+3736	Golden sand
+3737	Is it a Heap?
+3741	Subarray with maximum XOR.
+3742	n^n mod 10^p
+3744	Factorial Again!
+3745	Ants Colony
+3746	Bingo!
+3747	Cocircular Points
+3748	Digits Count
+3749	Electric Needs
+3751	Growing Strings
+3752	Hyperactive Girl
+3753	Ingenious Metro
+3755	Kids` Wishes
+3756	Kinds of figures
+3757	John, Bruce and beer
+3758	Chain
+3759	Cube
+3760	Queue
+3761	Magic Labyrinth
+3762	Poodle and Bolonka
+3763	Very hard task
+3764	Remainders sum
+3765	Inside Circle
+3766	Millennium
+3767	Recurring Decimals
+3768	Biased Dice
+3769	Railway Connection
+3770	Chain-Confined Path
+3771	Generic Poker
+3772	Patisserie ACM
+3773	Battleship
+3774	BrainFuckVM
+3775	Candy Distribution
+3776	Outsourcing
+3777	Pizza Hawaii
+3778	Roller coaster fun
+3779	Ski Jumping
+3780	Suffix Array Re-construction
+3781	Touchscreen Keyboard
+3782	Track Smoothing
+3783	Treasure Diving
+3784	1 VS 1
+3785	Count the Number of Cycles
+3786	Changlong`s bother
+3787	Knight Match Play
+3788	Province Region Competition Team Play
+3789	Fly or not fly
+3790	Monitoring System
+3791	HaHa`s Morning
+3792	Planting Tree
+3793	Job!Job!Job!
+3794	Pocky
+3823	Maximum Power
+3824	3D Blobs
+3825	Integral of All Horrors
+3826	Drift Puzzle
+3827	Optical Optimization
+3829	Prettify Text Blocks
+3830	Area of Regular Polygons
+3831	Mink Carpet
+3832	Rotate Text Blocks
+3834	Black and white painting
+3835	Minimal Spanning Tree
+3836	Deli Deli
+3837	Expressions
+3838	Frequent values
+3839	Grocery store
+3840	Halloween treats
+3841	Dr Who`s Banquet
+3842	Bitris
+3843	Primes
+3844	Longest Prefix Match
+3846	Maximal Number of Divisors
+3847	Miraculous Drug
+3848	Softville
+3849	Tree
+3850	VAN DINSKY
+3856	Angry Teacher
+3857	Beth Tableaux
+3858	Collecting Bugs
+3859	Drawing Windows
+3860	Ellipse
+3861	Fool`s Day
+3862	Graveyard Design
+3863	Honey and Milk Land
+3864	Incredible! Impossible!
+3865	Jackpot
+3866	K-th Number
+3867	Lazy Misha
+3869	Meteomeasurements
+3870	Ann and Google
+3877	Article
+3878	Airlines - 2
+3879	Blots on Paper
+3880	Compression
+3881	Teach Yourself Pottery
+3883	Pattern Matching
+3884	Roman Cities
+3885	Sequence Sum
+3886	Order Splitter
+3887	The Merry Student Life During the Term...
+3889	Aztec Pyramid
+3920	MegaGCD
+3921	The Imperial March
+3924	Bus
+3927	Economy
+3935	Reverse
+3936	Towers of Hanoi
+3937	Digital root
+3939	Ariel
+3940	Billy, Willy and Moscow Underground
+3941	Cinderella
+3942	Darkwing Duck
+3943	Epic Fail of a Genie
+3944	Flood
+3945	Gadget Hackwrench
+3946	Hunt for Treasure!
+3947	Innovative Business
+3948	Just Another Disney Problem
+3949	Key to Magica`s diary
+3966	Ardent Butterfly Collector
+3968	Square root
+3969	Diplomas
+3970	Mutants
+3971	CosmoCraft
+3972	Covered Walkway
+3973	Double Dealing
+3974	The End of the World
+3975	Estimation
+3976	Juggler
+3977	Red/Blue Spanning Tree
+3978	The Red Gem
+3979	Science!
+3980	The Worm in the Apple
+3981	From adjacency matrix to adjacency list
+3982	From adjacency list to adjacency matrix
+3983	Mancunian And Colored Tree
+3984	Sum of Squares with Segment Tree
+3986	Sources and sinks
+3987	Complete graph
+3988	Transitivity of a graph
+3989	Hanoi tower
+4000	Depth Search
+4001	Area of the room
+4002	Cheating away!
+4003	Sum of Left Leaves
+4004	Is there a cycle?
+4009	Bird tree
+4010	Movie collection
+4011	Piece it together
+4012	Please, go first
+4013	Pool construction
+4014	Smoking gun
+4015	Tichu
+4016	Tracking RFIDs
+4017	Train delays
+4019	Turtle restoring
+4021	Knight move
+4022	Admiral
+4023	Beer Pressure
+4024	Cycling
+4025	Digital Clock
+4026	Edge Case
+4027	Foul Play
+4028	Guards
+4029	Hip To Be Square
+4030	Idol
+4031	Joint Venture
+4032	Key Insight
+4033	Tram
+4034	Minimum and Maximum in a tree
+4035	Ice-Cream
+4036	Pre-Order Traversal of a Tree
+4038	Post-Order Traversal of a Tree
+4039	Heap it!
+4040	Factor Trees
+4043	Roses
+4044	N Queens
+4045	Brackets
+4047	Peaks
+4048	Fireworks in RightAngleles
+4049	Melody
+4050	Funny Game
+4051	Grasshopper
+4053	Turtle Knight
+4070	Convex Hull
+4073	Its a Murder!
+4074	Find the Median - 2
+4075	Recursive Sequence
+4076	Prime Generator
+4077	Corporation Salary
+4078	Drawing Marbles
+4079	Permutation
+4080	AND Rounds
+4081	Frequent values - 2
+4082	Interval Product
+4089	Ideal Path
+4090	Binary Matrix 2
+4091	Probability Through experiment
+4092	Optimal Space Way
+4093	Radiation
+4094	Version Controlled IDE
+4095	Ultimate Device
+4096	Warp Speed II
+4097	Birthdates
+4098	Prime Substring
+4099	Longest Word
+4100	Titanic
+4101	Three digit numbers
+4104	Distance in Tree
+4106	Subsets generation
+4107	Totient Extreme
+4110	Route in the matrix
+4111	Anagrams
+4114	Heavy Cargo
+4117	Binary Search
+4118	Frontier
+4119	Disk Tree
+4120	Robot Navigation
+4121	All Your Base
+4123	This is Halloween: Saving Money
+4124	Coffin Tiles
+4125	Thinking Inside the Box
+4126	Lightbulb Testing
+4128	Kingdoms
+4130	Chemist's vows
+4131	Non-boring sequences
+4132	Word equations
+4133	Farm and factory
+4135	Darts
+4136	The Dragon and the knights
+4137	Conservation
+4138	Graphic Madness
+4142	The Great XOR
+4144	Batch Scheduling
+4146	Binary Search Tree 1
+4152	Andrew the Ant
+4153	Software Bugs
+4154	Charlie the Cockchafer
+4155	Gregory the Grasshopper
+4156	Lisa the Ladybug
+4157	Mosquito Multiplication
+4158	Rhinoceros Beetle
+4159	Simon the Spider
+4165	Heroes 2
+4166	Gandhi and Dundee
+4167	Chupacabras vs mothmen
+4168	A night in the Library
+4169	Plotter
+4170	Mixing liquids
+4171	Christmas Lights Assemby
+4172	Pattern matching
+4173	Tree
+4174	Rally
+4178	NP Knapsack problem
+4192	Olympiad
+4196	Chocolate bars
+4197	Film Festival
+4208	Degrees of two
+4211	Gas stations
+4212	Casting
+4213	Cities
+4214	A + B = C
+4220	AAAAHH! Overbooked!
+4221	Betting Sets
+4222	Counting Pixels
+4223	Matryoshka Dolls
+4224	Equilateral Dominoes
+4225	Four Gate Push
+4226	Game Rigging
+4227	Highway Construction
+4235	Center of the tree
+4247	I Know the Winner
+4248	Tree
+4249	God Create Math
+4250	Maze
+4251	Maze Again
+4252	Region
+4253	TianWang`s Game
+4254	Angle
+4255	Sum on a segment
+4256	SumX
+4257	17 chairs
+4259	Minimum in the stack
+4260	LCS-2
+4261	Number of inversions
+4262	Distance from the point
+4267	Babs` Box Boutique
+4268	Flash Mob
+4269	Hexagon Perplexagon
+4270	I`ve Got Your Back(gammon)
+4271	Parencedence!
+4272	Road Series
+4273	Show Me the Money
+4274	Sofa, So Good
+4275	Town Square
+4280	Points diameter
+4281	Inattention
+4283	Stepan and pairs
+4284	Stepan's heritage
+4286	Arithmetic
+4291	Dictionary
+4292	Texas hold `em
+4293	Median Tree
+4294	Billiard
+4295	Stack Maze
+4296	Counting 1`s
+4297	Ancient Commemorative Monolith
+4298	Magical Bridges
+4299	Hashigo Sama
+4300	Ancient Scrolls
+4313	Persistent stack
+4315	AVL
+4320	Teams
+4322	Busy Bees
+4323	Ring
+4327	Party
+4340	Army of Mages
+4341	Aztec Treasure
+4342	Algorithm Complexity
+4343	Flags for Provinces
+4344	Loyd`s Problem
+4345	Killer Words
+4346	Work for Robots
+4347	Salary for Robots
+4348	Sniper Shot
+4349	Square Country 5
+4350	Turning Turtles
+4353	Happy  Birthday!!!
+4354	The problem about the chest
+4355	Sheep in the hall
+4356	Long long Catfish
+4357	The problem about the chest (Hard)
+4358	T-shirter
+4359	Sweets for mushrooms
+4360	Solarium for mushrooms
+4361	Solarium for mushrooms (Hard)
+4362	Vanya, inscribed in the polygon
+4363	Listen to the song
+4364	Listen to the song (Hard)
+4365	Walrus on the blocks of ice
+4366	Game with palindroms
+4367	Game with palindroms (Hard)
+4368	Triangular web
+4369	Arson
+4375	Matrix inversion
+4377	Death Star 2
+4378	Very simple problem
+4379	Three Bit Computer
+4380	Three Bit Computer strikes back
+4381	Express delivery
+4382	Die Young
+4386	Jungle Outpost
+4388	Meeting place can not be changed
+4389	Intersection of nonconvex polygons
+4393	Work Sheduling
+4394	Yen algorithm
+4404	Quite a problem
+4405	Multi-touch gesture classification
+4406	Stacking Curvy Blocks
+4407	Unicycle counting
+4408	Choosing Numbers
+4409	Loopy transit
+4410	Hitting the Targets
+4411	Texas Summers
+4412	Out of context
+4413	Maze movement
+4414	Ragged Right
+4416	Testing System
+4418	Lexicographical order
+4419	Dense forest
+4420	The root of a cubic equation
+4421	For Fans of Statistics
+4423	Transfer points
+4424	Union of segments
+4434	Cipher Message
+4437	Remove the parentheses
+4439	Exponentiation
+4461	Accept in 150 seconds
+4462	Strange Joseph and The Knights of Round Table
+4463	Going to movie
+4464	The roads in ByteLandia
+4465	The game in dots
+4466	The road in ByteLandia – 2
+4469	Domino
+4473	Maximum
+4481	In the Country of Unlearned Lessons
+4482	In a country of Unlearned Lessons 2
+4483	The kid who learned to count
+4484	Investigation by koloboks
+4486	Cheburashka and Crocodile Gena
+4491	Three from Prostokvashino
+4496	Adventures of Dunno and His Friends
+4504	AND & OR & max on a segment
+4509	Vasya and sets
+4510	AND & OR & min on a segment
+4516	Trees in the garden
+4517	Delivery
+4522	Compacting Stickers
+4524	Improve RLE
+4525	Boustrophedon
+4526	Ichthyology
+4527	Simple prefix compression
+4529	Fibonacci numbers: the last digit
+4531	HTHL
+4532	TEX 2 Unicode
+4538	Bob and balls
+4540	Hanoi Tower
+4546	Beaver School in Lviv
+4556	Counting Triangles
+4557	Lonely king
+4593	Automaton
+4594	Bims
+4595	Cutting
+4596	Disclosure
+4597	Embedded circles
+4598	False figures
+4599	Grouping
+4600	Hidden triangles
+4601	Interactive
+4602	Journey
+4603	K-edges graph
+4604	Lake
+4605	Match them up
+4606	Need for sum thing
+4607	Open air
+4608	Pseudo automaton
+4609	Quiz
+4610	Reduction
+4627	Hexagon
+4628	The Bermuda Triangle
+4629	Hexagonal Routes
+4631	Triangle Trouble
+4635	The Programmer`s Hex
+4636	Hex Tile Equations
+4662	Chords
+4663	A Coloring Game
+4664	Hippopotamus
+4666	Circular Railway
+4668	2-3 Trees
+4679	Mountain Holidays
+4680	Divisors
+4687	Tram
+4688	Median Weight Bead
+4715	Lovely Elephants
+4716	Divide the apples - 1
+4717	Divide the apples - 2
+4720	New Sergey's game
+4721	Bob the honors pupil
+4722	The square of a number
+4725	Sum of squares
+4726	First and last appearance
+4727	Second appearance
+4729	Length of the sequence
+4730	Fibonacci
+4732	iccanobiF
+4733	Is it divisible by 2, 4 and 8?
+4734	Is it divisible by 3, 6 and 9?
+4735	Is it divisible by 5 and 10?
+4737	Remove extra spaces
+4738	Sorting
+4739	Sieve of Eratosthenes
+4742	Number of divisors
+4746	Cafe "Proboscis"
+4749	Theater revenue
+4750	Filling
+4752	Cinema
+4753	Cinema+
+4754	From base k to base 10
+4755	From base 10 to base 13
+4758	Fibonacci number system
+4760	Move zeroes
+4761	Loops
+4763	From list of edges to adjacency matrix
+4764	Degrees of vertices
+4765	Remove Duplicates from Sorted Array
+4766	From adjacency matrix to the list of edges - 2
+4779	Two circles
+4786	Segments
+4802	Longest Common Substring
+4805	Equilateral triangle
+4808	Woodcutter
+4813	ATM
+4815	All permutations of given length
+4817	Rectangle
+4819	Maximum by minimum
+4822	Moscow Ring Road
+4831	Knapsack
+4835	Without two consecutive ones
+4849	Electric trains
+4850	Magic machine
+4851	Details
+4852	The shortest distance
+4853	The shortest path
+4856	The Shortest Path
+4857	Olympiad in Hogwarts
+4858	Ordered numbers
+4859	Boring lecture
+4861	Sections in Makhovniki
+4893	Brujo Don Pedro
+4894	Interesting sequence
+4895	Frog VS mosquito: the last fight!
+4896	GCD
+4898	Very simple
+4914	UFOs
+4917	Farm 2
+4918	About Frogs
+4919	Ryaba Hen
+4920	Lunar Code
+4921	Airplanes
+4922	Spy Satellites
+4946	Uncle Scrooge's Gold
+4948	Light
+4951	Factory
+4952	K-inversions
+4953	Men in Black
+4954	Path
+4955	Martian Plates
+4956	Bad Roads
+4957	Sequence
+4958	Game of Squares
+4959	Ones and Zeroes
+4960	Zones on a Plane
+4961	Cockroaches in the Building
+4962	Game with Cards
+4963	Flower-garden Designs
+4964	Goat in the Garden 4
+4965	Interesting Number
+4966	Maze
+4967	Vasya`s Dad
+4968	Photo
+4969	Roadworks
+4970	Shots at Walls
+4971	Snake
+4972	The calendar
+4973	Mutation
+4974	Space pebbles
+5023	Joseph Problem
+5040	The Idiot of the Year Contest!
+5041	Parsing Real Numbers
+5042	Co-workers from Hell
+5043	Connected Gheeves
+5044	Rotating Scoreboard
+5045	ACM Underground
+5046	Expression Evaluator
+5047	Rectangle Cutting
+5049	Remove spaces
+5050	Degree of two
+5057	Spiral
+5058	Sequence of brackets
+5059	Two minimums
+5060	Reverse Polish notation
+5062	Maximum palindrome
+5064	Magic constant
+5067	n Div Tree
+5072	Count number of edges
+5073	Multiedges
+5074	Degrees of vertices by a list of edges
+5076	Regular graph
+5078	Graph tournament
+5080	Number of hanging vertices 1
+5083	Sum of digits
+5084	Interval Less Query
+5086	Compare Big Integers
+5087	Implement a stack
+5088	Number of hanging vertices 2
+5089	Vocabulary
+5091	Explosive containers
+5095	XOR 2
+5096	Shagrath
+5097	Reverse the number
+5098	Three rings for the elven kings
+5101	Hodja Nasreddin
+5102	Very Simple Problem
+5103	Koza Nostra
+5107	Minibus
+5109	Heritage of the king
+5115	Hockey in Ural
+5116	Robot assembler
+5117	Graphic editor "Chameleon"
+5118	Ancient dynasties
+5123	Hailstone HOTPO
+5124	B-Casting
+5125	Pen Counts
+5126	Maximum Random Walk
+5127	Faulhaber`s Triangle
+5128	The King`s Ups and Downs
+5129	Mad Veterinarian
+5130	Windmill Animation
+5131	Push-To Telescope
+5132	Mystery
+5133	abc
+5134	Intersection of two lines
+5137	Monobilliards
+5138	Increasing subsequence
+5139	Average train speed
+5141	LCM Sum
+5151	Two triangles
+5156	Segments
+5158	Hippogriffs
+5159	Kingdom of Magic
+5161	Lasers
+5179	Folding
+5185	Point of medians intersection
+5186	Center of inscribed circle
+5192	Construct a triangle 3
+5194	Boris, You Are Wrong!
+5195	Divide an Island!
+5205	Parentheses
+5208	Sum of cubes
+5213	Inverse
+5217	LCA offline
+5219	Caves and Tunnels (Easy)
+5222	Game
+5223	Watson`s memory
+5224	Accomodation
+5226	Construction
+5227	Task
+5228	Palindrome
+5230	Cube
+5232	Method of linear transformation
+5233	Watson`s magic number
+5234	Formatting
+5235	Two flower beds
+5255	Digit
+5259	Segments
+5273	Acquaintance
+5274	Fenechka
+5282	Saddle points
+5283	Thaw
+5285	Caves and Tunnels
+5287	The cyclic suffixes (Easy)
+5289	Nenokku (Easy)
+5290	Substring (Easy)
+5292	Fourth floor
+5299	Covering with paths
+5303	Twelve
+5304	Perms
+5305	Snakecube
+5306	Stones
+5307	Hilbert matrix
+5314	2^k + 2^n
+5315	Set a bit
+5316	Invert a bit
+5317	Bit value
+5319	Reset a bit
+5320	Complementary code - 1
+5321	Complementary code - 2
+5322	Numeral system - 1
+5324	Extended Euclid Algorithm
+5325	Stand in order
+5326	Towers of Hanoi
+5327	Bracket sequence
+5328	Find Minimum
+5329	Party
+5330	Robbers from the big stairs
+5331	Thylacine
+5334	Incinerate el
+5335	Product on a short number
+5337	Different-different
+5339	Gnomes and houses
+5341	The Alliances
+5342	An Arithmetic Rectangle
+5343	Bodyguards
+5344	The MP3 Player
+5345	PIN
+5346	A Huge Tower
+5351	Cactus
+5355	Guards
+5358	Joseph`s Problem
+5360	Astronomy
+5363	Drying
+5364	Expectation
+5366	Godfather
+5370	K Best
+5371	Alphabet
+5386	Greatest Common Divisor
+5412	Ginkgo Numbers
+5413	Stylish
+5414	One-Dimensional Cellular Automaton
+5415	Find the Outlier
+5416	Sliding Block Puzzle
+5417	Never Wait for Weights
+5418	Let There Be Light
+5419	Company Organization
+5420	Beautiful Spacing
+5421	Cubic Colonies
+5432	Generalized Fibonacci Chipmunks
+5437	Fibonacci strings
+5440	Product of numbers
+5445	Sociology
+5463	Cinema tickets
+5471	Graph 1, 1/2, 1/3, 1/4
+5472	RMQ
+5474	Mumatrix
+5491	Moo
+5492	How Many Ones Needed?
+5493	Just Add It
+5494	Quadrant Queries
+5497	Host Place
+5498	Largest Volume
+5503	Sith vs Jedi
+5504	Ministry of Truth
+5505	Yoyu Nyerk
+5506	Reverse grasshopper
+5542	AB-poems
+5543	Business Card Juggling
+5544	Corridor
+5545	Division
+5546	Explosion
+5547	Factoradic Numbers
+5548	Garden
+5549	Hunt
+5550	Invasion
+5551	Jousting
+5552	Kaleidoscope
+5553	Lord Bradley on the North Pole
+5559	Fibonacci System
+5609	Complex Root
+5610	To Kill the Dragon
+5611	Biggest Inscribed Ellipse
+5612	Five Palindromes
+5613	Boss, I Can See You!
+5614	Fire Signals
+5615	Mundial
+5616	Algorithm of Professor Ivanov
+5617	GOV-internship 3
+5618	Palindromes and Super Abilities
+5619	Stars
+5620	Ministry
+5621	Find a multiple
+5622	Labyrinth
+5623	Queens in peaceful positions
+5624	Cross-stitch
+5651	Hey, Better Bettor
+5652	Surely You Congest
+5653	Factors
+5654	Harvard
+5655	Low Power
+5656	Map Tiles
+5658	Pirate Chest
+5660	Up a Tree
+5661	Nonoptimal Assignments
+5662	Cryptography
+5664	Hexagon and Rhombic Dominoes
+5665	Strange Limit
+5666	Little Mammoth
+5667	Network Wars
+5668	Oil Deal
+5669	Bishops on a Toral Board
+5670	Crazy Bishops
+5671	Divide and Conquer
+5672	Martians` DNA Analysis
+5673	Drawing Problem
+5674	Fibonacci Period
+5675	Parallel Processes
+5676	Beautiful Permutation
+5677	Build More Roads!
+5678	Secret Lab
+5679	Snooker
+5696	Airplane Parking
+5697	Elias Omega Coding
+5698	In-circles Again
+5699	Rating Hazard
+5700	Relational Operators
+5701	Your Ways
+5702	Hexagonal Sticks
+5703	Buy Your House
+5704	Synnerg Lifeform
+5705	Nowhere Money
+5706	Highway Patrol
+5713	Windy weather
+5716	Card houses
+5717	Windy weather 2
+5718	Big difference
+5721	Find an element
+5722	How to become a millionaire?
+5730	YAPTCHA
+5731	Skyscrapers
+5732	Business Cards
+5733	Museum
+5734	Morphing is fun
+5735	Tower
+5736	Suffix reconstruction
+5737	Two professors
+5738	Counting heaps
+5739	In case of failure
+5740	Army Buddies
+5741	Ball Stacking
+5742	Candy`s Candy
+5743	Diccionário Portuñol
+5744	Elecrical Pollution
+5745	File Retrieval
+5746	Garden Fence
+5747	Hedge Mazes
+5748	In Braille
+5749	Jupiter Atacks!
+5750	King`s Poker
+5751	Delta Encoding and Decoding
+5752	Hidden Password
+5753	Crazy tea party
+5754	Supermarket
+5755	Lord of the Ring
+5756	Power Network
+5757	Firefighters
+5758	Binary Polynomials
+5765	Canaries
+5776	Phigon
+5786	Grey Area
+5787	Expected Allowance
+5788	Stopped Watches
+5789	Digits on the Floor
+5790	Spherical Mirrors
+5791	Traveling Cube
+5792	Search of Concatenated Strings
+5793	Top Spinning
+5794	Common Polynomial
+5795	Zigzag
+5796	Circles
+5797	Sum of Fractions
+5798	Number
+5799	Product of Different
+5801	Taxi
+5813	Stickers
+5817	MathWorlds
+5822	Fans Placement
+5826	And Then There Was One
+5827	Prime Gap
+5828	Minimal Backgammon
+5829	Lowest Pyramid
+5830	Geometric Map
+5831	Slim Span
+5832	The Morning after Halloween
+5833	Bug Hunt
+5834	Most Distant Point from the Sea
+5835	The Teacher`s Side of Math
+5836	A Two Floors Dungeon
+5837	Area Folding
+5838	Connect
+5839	Do use segment tree
+5840	Move on Dice
+5841	Pipeline Plans
+5842	Presentation
+5843	Repairing
+5844	Sun and Moon
+5845	Usoperanto
+5846	Computer game (platforms)
+5847	Platforms with additional criterion of optimizat
+5848	Computer game (platforms) with path
+5849	Computer game (platforms) with quadratic jumps
+5850	Mathematical platforms
+5851	Way via mountains (small limits)
+5852	Way via mountains
+5853	Chess
+5854	Maximum Sum basic
+5855	Maximum Sum with number of ways
+5856	MaxSum (jumps to any column)
+5857	MaxSum (odd sum)
+5858	MaxSum (visit each column)
+5859	MaxSum (visit all columns by chess knight)
+5860	MaxSum (lucky sum-1)
+5861	MaxSum (lucky sum-2)
+5862	Solitaire (small limits)
+5863	Solitaire
+5864	Unfolding the Solitaire
+5865	Sum maximization game
+5866	Maximization giveaway
+5867	Decomposition into a sum of cubes
+5868	A xor B
+5869	Bowling analysis
+5870	Count them!
+5871	DAG game
+5872	Explosive Chapaeff
+5873	Fibonacci hater`s him
+5874	Grundy`s game
+5875	Hard MEX
+5876	Interval game
+5877	Jam
+5878	K-nim
+5879	Leaping
+5880	MEX
+5881	Nim
+5882	Asterisk
+5883	Anansi`s Cobweb
+5884	Admission to Exam
+5885	Lunar Code 2
+5886	Mortal Kombat
+5887	Monkey at the Keyboard
+5888	Space Poker 3
+5889	Scrooge`s Tower
+5897	Sum of squares
+5919	Fibonacci haters` nim 2. Peter strikes back!
+5925	Winter Roads
+5926	Can of Worms
+5927	Automatic Trading
+5928	3D Printer
+5929	Flooding Fields
+5930	Goat Ropes
+5931	Job Postings
+5932	Overlapping Maps
+5933	Unreal Estate
+5934	Satisfaction Guaranteed
+5935	Uniform Subtrees
+5956	Integer point
+6002	Are We There Yet?
+6003	Fast Times at Ridgemont`s Planet
+6004	Symbolic Mathematics
+6006	Change by Mass
+6008	Inverse Triangular Numbers
+6009	I`ll Be Round About
+6010	Jill and Phil`s Palindromic Peregrinations
+6011	Pavement Signage
+6012	Time Limit Exceeded
+6013	Counting Again?
+6015	Solitaire
+6016	Matrix
+6017	Largest inscribed rectangle
+6018	XOR Sum
+6019	There is no place like 127.0.0.1
+6021	Mega Inversions
+6022	Death Knight Hero
+6024	ls
+6025	Knigs of the Forest
+6026	Car Trouble
+6028	Prime Time
+6029	Enemy Division
+6030	Boggle
+6031	Booking
+6032	Chess
+6033	Kastenlauf
+6034	No Trees But Flowers
+6035	Peg Solitaire
+6036	Ringworld
+6037	The King of the North
+6039	Timing
+6040	Triangles
+6041	The Navi-Computer is Down!
+6042	Blenjeel Sand Worms and Color Wriggles
+6044	Rescue Beacon
+6045	Let the Wookiee Win!
+6046	Laser Turret Maintenance
+6047	George Lucas and 1138
+6048	Spare the Ewoks!
+6050	Laser Shot
+6051	Power Grid
+6052	Quicksum
+6053	Linear Pachinko
+6054	Surprising Strings
+6055	Falling Ice
+6056	Frugal Search
+6057	Go Go Gorelians
+6058	Root of the Problem
+6059	Sum of Odd Sequence
+6060	Spiral
+6061	Surface Area
+6062	Table
+6063	Huge Knight
+6064	Matrix Transformation
+6065	Bi-coloring
+6066	Sorting
+6068	Qurban 2011
+6069	Ride My Bicycle
+6070	Counting Sheep
+6072	Untidy Desktops
+6073	Picnic Planning
+6074	Poly-polygonal Numbers
+6075	Rational Approximation
+6076	Stacking Cubes
+6077	Checker`s Check
+6078	To Bet or Not To Bet
+6079	BSP Trees
+6080	Double Trouble
+6081	"Metro"
+6082	Supernatural
+6083	"Pieces of Paper"
+6084	"Nested rectangles"
+6085	"Turns minimization"
+6086	"Same quantity, sum and product"
+6087	A Cycle of Points
+6088	"Sum"
+6089	"Desoxyribonucleic Acid"
+6090	"Easy Recurrence"
+6102	Integral Rectangles
+6103	ICPC Ranking
+6104	Hierarchical Democracy
+6105	Prime Caves
+6106	Anchored Balloon
+6107	Rotate and Rewrite
+6119	Fiber Network
+6122	Simple Stack
+6128	Simple deque
+6129	Deque with error protection
+6130	Deque of infinite size
+6137	ABC
+6144	3x+1
+6145	Omicronian Domino
+6146	Osipovsky Cup
+6147	RoboFest
+6148	Computer Vision
+6149	Casino
+6150	Campus
+6151	Coffee
+6152	ACM Fail
+6153	Sixth Sence
+6154	Zota 2
+6155	Wrong monks
+6159	The Towers of Hanoi Revisited
+6160	Thread Tree
+6161	Trodden Cable
+6162	Fox Observation
+6163	Removing Magical Tiles
+6164	Optimal alpha beta pruning
+6165	Graph Automata Player
+6166	Spotlight Movement
+6167	Gravity Point
+6168	Multi Path Story
+6169	Rotation Game
+6170	Russian Dolls
+6171	InterCity
+6172	Count
+6173	Chess
+6174	A+B
+6175	Dragon Pattern
+6176	Points
+6178	Influence
+6179	An Idea of Mr. A
+6187	Hanoi tower
+6188	Plunder & Flee
+6189	Blobs` Exhibition
+6190	Number Game
+6191	Evil & Odious
+6192	Checkers
+6194	Klingon Battle Bagel
+6195	Meteorite
+6196	Triangles
+6199	Oddities
+6200	Ternarian Weights
+6201	Goldbach`s Conjecture
+6202	Shotcube
+6203	Erratic Ants
+6204	Plotting Polynomials
+6205	Trapezoid Walkway
+6206	4 thought
+6207	Biggest Slice
+6208	Even Up Solitaire
+6209	Island Buses
+6210	Candy Store
+6211	Collision Detection
+6212	Do It Wrong, Get It Right
+6213	Dueling Philosophers
+6214	Paint Me
+6215	Party Games
+6216	Reverse Nonogram
+6217	Tsunami
+6219	Walls
+6220	Random Walking
+6221	Full Tank
+6222	Kingdom
+6224	Dark Roads
+6226	Food Review
+6227	From Dusk Till Down
+6233	Fenwick Tree
+6240	Repeating Decimals
+6241	Solutions of Cubic Equation
+6242	Multiplication in a Dihedral Group
+6243	Area Between Outer Hull and Inner Hull
+6245	M M Detour
+6247	Interior Lattice Points
+6248	Permutations
+6249	Planting Trees
+6251	Number Trick
+6252	Robert Hood
+6253	Virus Replication
+6255	Erase Securely
+6257	Dance Reconstruction
+6258	Dartboard
+6259	Cliff Walk
+6260	Arrangement of Contest
+6261	Ballot Analyzing Device
+6263	Dwarf Tower
+6264	Energy Tycoon
+6265	Flight Boarding Optimization
+6267	Heavy Chain Clusterization
+6269	J
+6270	Kids in a Friendly Class
+6271	Lonely Mountain
+6273	A square from squares
+6277	Buy the water
+6280	The amount of n-digit numbers
+6286	Mysterious equation
+6292	Billing Tables
+6294	Driving Directions
+6295	Exchange
+6296	Fool`s Game
+6298	Hard Life
+6299	Interconnect
+6300	Java vs C++
+6301	Kickdown
+6352	n-th Square Free
+6369	Trailing Sifar
+6370	Let`s Go Green
+6371	Filter & Perform
+6372	Show me the Step
+6373	The Sultan’s Chapati
+6374	Sahur & Imsa
+6375	Rice Sack
+6376	Rain Forest Canopy
+6377	Positive Closure Sum
+6378	LIS
+6379	Welcome Party
+6380	Round Robin
+6381	Missing Pages
+6382	Probability Paradox
+6383	Letter Cubes
+6384	Digit Sum
+6385	Cash Cow
+6386	Sort Me
+6387	Islands in the Data Stream
+6388	Von Neumann`s Fly
+6389	Strahler Order
+6390	Pisano Periods
+6391	Deranged Exams
+6392	Chomp
+6393	Triangle Count Sequences of Polygon Triangulatio
+6394	Powers of Pascal
+6395	Contraband
+6396	Fast Food Prizes
+6397	Seven Kingdoms
+6398	Institute of Advanced Category Manipulation
+6400	Credit Card Payment
+6401	IQ Test
+6402	Social Advertising
+6403	Tables
+6404	Flood-It
+6405	Chemicals Monitoring
+6406	Area Coverage
+6407	Bad Signal
+6408	Cracking the Safe
+6409	Dreaded Alternating Game
+6410	Encryption
+6412	Genuine Messages
+6413	How Much?
+6414	Identification Codes
+6415	Just Enough Space
+6417	Administrative Difficulties
+6418	Bribe
+6419	Cracking the Code
+6420	Destination Unknown
+6421	Encoded Coordinates
+6422	Flying Safely
+6423	Getting Through
+6424	Hidden Camera
+6426	Jailbreak
+6427	Beehives
+6428	Bits Equalizer
+6429	LCM Pair Sum
+6437	Analyzing Bit (Yet Special) Strings
+6438	Bits Are Dangerous
+6439	Counting Amusing Numbers
+6441	Exact Number of Drops
+6442	Figures Of Simple Sense
+6443	Gowk`s Errand for Master
+6444	Handicapped Onsite Prediction
+6445	Icy Roads Of Nomel
+6446	Jelly-Oxygen Beans
+6448	Xoring Machine
+6450	Tree
+6451	Magic Roads
+6452	Patterns
+6453	ABACABA Matching
+6454	Intervals
+6455	Danger
+6456	Redundant Edges
+6457	Coloring
+6458	Robot
+6459	Cosine
+6460	Billiard
+6461	Queue
+6463	Remarkable Substrings
+6464	Moderate Numbers
+6465	Sum of Powers
+6466	Tree Distance
+6467	Dot Product
+6479	Blizzard
+6480	Bytecomputer
+6481	Euler`s Problem
+6522	The New President
+6525	Kids Love Candies
+6526	The Swapping Game
+6527	Lock Pattern
+6528	Archery
+6530	Contest Hall Preparation
+6531	Math Homework
+6532	Absurd prices
+6535	Field Plan
+6543	Faculty Dividing Powers
+6546	Magic Star
+6547	Magical Crafting
+6548	My brother`s diary
+6549	Security Zone
+6550	Sightseeing
+6551	Suiting Weavers
+6552	Time to live
+6572	Network Planning
+6573	ZZ
+6574	Chromosome
+6575	Random Walks
+6576	Road
+6577	DVDs
+6578	Theater
+6579	Fence
+6580	Magic Graphs
+6581	Attacking rooks
+6582	Blogger language
+6583	Counting Ones
+6584	Disjoint water supply
+6585	Eleven
+6586	Football
+6587	Go up the Ultras
+6588	Hide and seek
+6589	Inverting Huffman
+6590	Join two kingdoms
+6591	Arithmetic with Morse
+6592	Beautiful Yekaterinburg
+6593	Hot Dogs
+6594	Tornado!
+6596	Boxes and Stones
+6598	Different Digits
+6599	Environment Protection
+6600	Fix the Pond
+6601	Game of Tiles
+6602	Hours and Minutes
+6604	Joining Couples
+6605	Drop Zone
+6606	Effective Infection Time
+6607	Outpost Navigation
+6608	Multikill
+6610	Worst Case Scenario
+6612	Zombdar
+6613	Fractional Lotion
+6614	Folded Map
+6616	Fence Orthogonality
+6617	Flower Pots
+6618	Frustrated Queue
+6619	Frozen Rose-Heads
+6621	Bowling Score Assistant
+6623	One Move from Towers of Hanoi
+6624	Four-Tower Towers of Hanoi
+6625	Light Switches
+6626	Full Board
+6628	Strings with Same Letters
+6645	Rocky
+6647	Battleships
+6648	Cuckoo for Hashing
+6649	Playing Fair with Cryptography
+6650	Rent-A-Pixel
+6651	Stampede!
+6652	Super Phyllis
+6654	The Urge to Merge
+6655	Xenospeak
+6664	Arbitrage
+6671	Gangs
+6672	Smeech
+6676	Three Colors
+6696	Eating Brains
+6697	Deep In The Ocean
+6737	Japhshan and Ramshut
+6738	Chemists
+6739	UFO Circles
+6740	The Diputs notation
+6741	Hexodoku
+6742	The Glorious Karlutka River =)
+6743	A Secret Book
+6744	Moles and Holes
+6745	Set Division
+6746	X + R(X) = N
+6766	Rubik`s Rectangle
+6767	What does the fox say?
+6768	Magical GCD
+6769	Subway
+6770	Escape
+6771	Draughts
+6772	History course
+6773	Chain & Co.
+6774	Crane
+6775	Captain Obvious and the Rabbit-Man
+6776	Digraphs
+6777	Bus
+6778	Equal Sum Sets
+6779	The Last Ant
+6780	Count the Regions
+6781	Clock Hands
+6782	Dragon`s Cruller
+6783	Directional Resemblance
+6784	Longest Chain
+6785	Don`t Burst the Balloon
+6786	Hidden Tree
+6787	C(O|W|A*RD*|S)* CROSSWORD Puzzle
+6819	Antenna Placement
+6827	Aaah!
+6828	Bread Sorting
+6829	Cookie selection
+6830	Doorman
+6831	Eco-driving
+6832	Food Review
+6833	Galactic Warlords
+6834	Horror List
+6835	Infiltration
+6836	Juice
+6837	Kindergarten
+6838	Luggage
+6839	House Numbers
+6840	Rotten Ropes
+6841	Optimal Keypad
+6843	Unfoldung
+6844	A DP Problem
+6845	Map Labeler
+6847	Lego Land
+6848	Wall
+6849	Trees
+6850	Colors
+6851	A Treasure Or A Bomb
+6852	Up and Down
+6853	Help the Museum
+6854	How Many Days Are There?
+6856	Cocktail
+6857	Increasing subsequences
+6858	Map Generator
+6859	Map Generator returns (MG-II)
+6860	Trigonometric optimization
+6861	Supersquare
+6862	Pseudographical recognizer
+6863	“Roman” corridor
+6864	Parabolic teleports
+6865	Magic pyramid
+6875	ABC for blind
+6897	Collatz Conjecture
+6898	Smart File Name Sorting
+6899	RNA Molecules
+6900	Pirates
+6901	Shuffling Strings
+6902	Guess Number
+6903	Subset Sum
+6904	Minesweeper
+6905	Tunb Airline
+6906	WonderTeam
+6907	Encrypted SMS
+6908	Hopeless Coach
+6909	Yungom
+6910	New Island
+6911	Sub-dictionary
+6912	Sharif Super Computer
+6913	Circle Artwork
+6914	Crazy Bits
+6915	Nurikabe
+6916	Caper pizza
+6917	Grasshopper
+6918	Party Night
+6919	Pachinko
+6920	Lexicographical ranking
+6921	Trust groups
+6922	Expensive subway
+6923	Turing
+6924	Gnirut
+6925	Contract Revision
+6926	Sticker Collector Robot
+6927	Account Book
+6928	Route Change
+6929	Elevator
+6930	Formula 1
+6931	Star War
+6932	Musical Plagiarism
+6933	Come and Go
+6934	Optical Reader
+6935	Tic-tac-toe
+6936	Square Free Numbers
+6937	PSU Campuses
+6938	Quadrants
+6939	Vicinity
+6940	Maximum Word Frequency
+6941	Sum of GCD
+6942	Spanning Trees in a Secure Lock Pattern
+6943	Teaching Hazard
+6944	Counting Lattice Squares
+6945	Seven Segment Display
+6946	Airport Sort
+6947	Boxes
+6948	Meeting Room Arrangement
+6949	Traveling Fool
+6950	Cabin Baggage
+6951	Minimal Subarray Length
+6952	Safari Park
+6953	Unlock my safe
+6954	Two Mysterious Alphabets from a Tree
+6955	Max Volume
+6956	Birthday Statistics
+6957	Nonogram
+6958	Jane`s First Words
+6959	Range Sum Query
+6960	Sum of Distinct Numbers
+6961	Assignments
+6962	Bones`s Battery
+6963	Crusher`s Code
+6964	Delta Quadrant
+6965	Enterprising Escape
+6966	Federation Favorites
+6967	Generations of Tribbles
+6968	Holodeck Hacking
+6969	Interstellar Trade
+6970	Janeway`s Journey
+6971	Klingon Warfare
+6972	Languages
+6973	Mass Production
+6974	Good Versus Evil
+6975	Magic Multiple
+6976	Painted Cube
+6977	Partition
+6978	Rings and Runes
+6979	Ritual Circle
+6980	Saruman`s Level Up
+6981	Seating Chart
+6982	Spellcasting
+6983	Temple Build
+6984	Tile Cut
+6985	Tongues
+6986	Movie
+6987	SMS Poll
+6988	Traitor
+6989	Intelligent Traffic Surveillance
+6990	BitTorrent
+6991	2D-Solar System
+6992	Bowling Ball
+6993	LED Circuit
+6994	Mixed Flight Plans
+6995	Sweeping Robot
+6996	Wedding Hall
+7013	Absurdistan Roads
+7014	Battle for Silver
+7015	Card Trick
+7016	Diagrams & Tableaux
+7017	Exponential Towers
+7018	First Date
+7019	Grachten
+7020	Highway of the Future
+7021	Infix to Prefix
+7022	Jingle Balls
+7023	Hanafuda Shuffle
+7024	Red and Black
+7025	Unit Fraction Partition
+7026	Circle and Points
+7027	Water Tank
+7028	Name the Crossing
+7031	Significant inversions
+7034	Portals
+7079	Let it Bead
+7090	Toral Tickets
+7107	Without lift
+7108	Fire control
+7110	Weighing balance
+7125	He`s Circles
+7176	Crossroad
+7215	Labyrinth
+7216	Mixing Colours
+7217	It Can Be Arranged
+7223	Binary Tree
+7228	How many sixs?
+7236	Winter
+7241	Transit
+7244	New Contest
+7245	Binomial Coefficient
+7246	Queries About Numbers
+7247	Queries on anti-xor
+7248	Queries on Graph
+7249	Infinite Planes
+7250	Game on Strings
+7251	Simple Recurrence
+7261	Difficult path
+7262	A coincidence 
+7263	A full set 
+7264	A fish lunch
+7265	The secret code
+7266	Dura Lex
+7267	A path to knowledge
+7268	A granite of science
+7269	Probable diagnosis
+7270	Zoological experiment
+7271	A game
+7272	A dangerous game
+7273	Hash-table
+7289	System of equations
+7291	Linguist
+7299	CRAVAT
+7300	CODELOCK
+7301	STATIONS
+7310	Jump
+7311	Insert Parentheses
+7312	Homer Simpsons barrels
+7313	k-Tree
+7314	Longest Valid Parentheses
+7315	Additive Class
+7316	Board Blitz
+7317	Divisor Count
+7318	Domino Tiling
+7319	Hourglass
+7320	k-th Meander
+7321	Records and Cycles
+7322	Rock-Paper-Scissors on a Plane
+7323	Set Operations
+7324	Permugame
+7325	Pluses and asterisks – 2
+7326	Sleeping cars
+7327	Numbairs
+7328	Memory Manager
+7329	Construction
+7330	Divisibility by 3
+7331	Number Set
+7332	Counting-Out
+7333	Fence
+7334	Dossiers
+7335	Saucepans and lids
+7338	Constant sum of digits
+7358	The maximum number
+7363	Sum of fractions
+7365	Milk and a pie
+7368	Arithmetic mean for figure skaters
+7371	Testing
+7383	Mutation
+7387	The Cost of Moving
+7388	A Jaw-dropping Problem
+7389	This Too Shall Pass
+7390	Chocolate
+7401	Stepan Friends
+7404	Polygon
+7405	Ice Cream
+7411	Equation for the 5-th class!
+7413	Sum on a tree reversed
+7414	A Simple Task
+7415	White hats
+7427	L. Lucky Primes
+7439	Combination
+7440	Easy
+7441	Factorial
+7442	Freelancers game
+7443	Graph decompositions
+7444	Graph Game
+7446	Contest preparation
+7448	Zero quintuples
+7449	Vector. Scalar Product
+7450	Point with pointers
+7452	Print Linked List
+7453	Rotate List
+7454	Linked List Cycle
+7455	Invert a Tree
+7459	Odd positions
+7463	Maximum Depth of Binary Tree
+7464	Minimum Depth of Binary Tree
+7465	Same Tree
+7466	Balanced Binary Tree
+7467	Symmetric Tree
+7468	Reorder List
+7469	Divide and conquer
+7470	Bank
+7472	UFO
+7473	K blocks
+7474	Marriage questions
+7476	Riddicks Cube
+7477	Schools
+7478	Special graph
+7479	Crazy old lady
+7480	Luxury burrow
+7481	Round words
+7482	Trading
+7483	New Year Train
+7484	Beautiful row
+7485	XOR
+7486	Biochips
+7488	Monkey and Apple-trees
+7489	Mountain Trek Route
+7490	Substrings
+7492	Alarm Clock
+7493	Buffcraft
+7494	Combinator Expression
+7495	Digits
+7497	Fragmentation
+7498	Grave
+7499	Hiking in the Hills
+7500	Instruction
+7501	Joy of Flight
+7502	Kebab House
+7503	Olympiad
+7509	Ones and sevens
+7526	Server
+7527	Eligibility
+7528	Plane Ticket Pricing
+7529	Facility Locations
+7530	Repeated Substrings
+7531	Landline Telephone Network
+7532	Aquarium Tank
+7533	Restaurant Ratings
+7534	Locked Treasure
+7535	Yet Satisfiability Again!
+7536	Continued Fraction
+7537	Popular Vote
+7538	Flipping Cards
+7539	Amazing Race
+7546	I’ve Been Everywhere, Man
+7548	Happy Camper
+7549	Chemistry
+7551	Fuel Stops
+7561	Adjustment Office
+7562	Binary vs Decimal
+7563	Cactus Jubilee
+7564	Distance on Triangulation
+7565	Easy Problemset
+7567	Generators
+7568	Hypercube
+7569	Iceberg Orders
+7571	King’s Inspection
+7572	Landscape Improved
+7584	Ants
+7586	Cactus Reloaded
+7595	Language Recognition
+7596	Sequence - 2
+7601	Alignment of Code
+7603	Cactus Revolution
+7612	Alex Origami Squares
+7613	Black and White
+7614	Concatenation
+7615	Distribution in Metagonia
+7616	Easy Arithmetic
+7618	Graph
+7623	Lucky Chances
+7624	Alter Board
+7639	Easy Geometry
+7640	Fraud Busters
+7650	Page not found
+7651	Page not found
+7652	Page not found
+7657	Page not found
+7662	Watcha
+7672	Divisible by 3
+7682	Page not found
+7683	Page not found
+7689	Page not found
+7695	Algebraic Teamwork
+7706	A Journey to Greece
+7707	Bounty Hunter II
+7708	Cake
+7709	Carpets
+7710	Change of Scenery
+7711	Divisions
+7712	Extreme Sort
+7713	Legacy Code
+7714	Milling machines
+7715	Souvenirs
+7716	Upside down primes
+7719	Sums
+7725	Bricks
+7735	Reverse Rot
+7738	ACM Contest Scoring
+7747	City Horizon
+7758	Station
+7761	Wall
+7762	Game
+7763	Gondola
+7766	Boxes with souvenirs
+7768	Teams
+7769	Horses
+7770	Sorting
+7772	ASCII Addition
+7775	Digit Division
+7776	Export Estimate
+7782	Kernel Knights
+7784	Bars of Gold
+7785	Bus
+7792	An ordinary boy
+7795	Containers and compartments
+7796	Cafe
+7797	Temirulan vs Pernekhan
+7798	Arti vs Mex-Mans
+7799	Nowruz Cup 2015
+7801	Summer school
+7807	Happy sum
+7809	Morning exercises
+7812	Maximum among four numbers
+7813	Cat, dog and hare
+7814	Two-digit number from three-digit
+7815	Generous Vasya
+7816	Two trains
+7817	Good number
+7818	Subway rides
+7824	Without repetitions
+7829	Sum of elements
+7831	Sum without maximum
+7832	Number of maximums
+7833	More than average
+7834	Two biggest
+7835	Seven primes
+7837	Maximal square
+7838	One more problem with XOR
+7839	Sum in sympathetic table
+7840	Joy of computer scientist
+7841	Odd elements
+7842	Even indexes
+7843	Bigger than previous
+7844	Neighbors of the same sign
+7845	Larger than neighbors
+7846	Maximum element
+7848	Swap the neighbours
+7849	Change max and min
+7850	Unique elements
+7851	Around the Track
+7852	Biking Duck
+7853	Cent Savings
+7854	Digi Comp II
+7855	Euclidean TSP
+7856	Finding Lines
+7857	Gathering
+7858	Hyacinth
+7859	Indoorienteering
+7860	Judging Troubles
+7861	Knapsack Collection
+7862	Assigning Workstations
+7863	Better Productivity
+7864	Cleaning Pipes
+7865	Debugging
+7866	Page not found
+7868	Guessing Camels
+7869	Hole in One
+7912	GREAT + SWERC = PORTO
+7913	Flowery Trails
+7914	Golf Bot
+7915	Book Club
+7916	Ricochet Robots
+7917	City Park
+7918	Playing with Geometry
+7933	Bribing Eve
+7938	Cairo Corridor
+7943	Perimeter of rectangle
+7944	Area of rectangle
+7945	Dwarves
+7947	Knapsack in a Globalized World
+7975	Detecting Molecules
+7976	Roller Coaster Railroad
+7977	Shortcut
+7989	Irish Whiskey
+7991	Kvass
+8064	Average
+8161	Alchemy
+8172	Polyhedra
+8173	Majority
+8174	Diamonds
+8177	Ramp Number
+8181	Airports
+8182	Butterfly Effect
+8183	Classy
+8184	Triangle
+8185	Excellence
+8186	Falling Blocks
+8187	Racing Gems
+8188	Hilbert Sort
+8189	Coverage
+8194	Egg Drop
+8195	Grid
+8197	Class Time
+8201	Alphabet
+8202	Buggy Robot
+8207	Maximum Islands
+8213	Barbells
+8216	Gravity
+8217	Islands
+8222	The length of the substring
+8224	Suffixes of a substring
+8236	Sort evens and odds
+8239	Function - 1
+8240	Function - 2
+8241	Function - 3
+8242	Positive, negative or zero
+8243	The first digit of the number
+8247	Fenwick Tree Construction
+8255	n-digit numbers
+8258	Walk
+8270	4
+8271	5
+8277	XOR
+8278	Sum of even numbers
+8279	Sum of divisors
+8280	The number of even divisors
+8288	Programming olympiad
+8295	Fibonacci strings generation
+8304	Fun function
+8316	Sort the letters
+8317	Square of difference
+8318	Delete digits
+8319	Simple Calculator
+8320	Title String
+8324	Interesting fun of Yura
+8325	Yura and the ice
+8326	Yura and attractive array
+8327	Choosing Ice Cream
+8328	Failing Components
+8329	Floor Painting
+8330	Lift Problems
+8331	Pawns
+8345	Interesting Integers
+8348	Distance between vertices
+8349	Small Number
+8350	Shooter
+8351	Restaurants
+8352	Taxi
+8353	Average value - 2
+8354	Sum of cubes
+8355	Book shelf
+8356	Discount
+8357	Point in polygon
+8358	Average value - 1
+8359	Palindrome
+8360	Turtle
+8361	Robot
+8362	Multiples
+8371	Even or Odd
+8372	Create a triangle
+8373	Inverted Tower
+8374	Odd number
+8375	One rectangle
+8376	Frame paving
+8377	Persistent Number
+8380	Escalator
+8381	How many numbers
+8382	Password
+8434	Boxes
+8435	Domino sorting
+8484	Maximal Flows Dimension
+8485	Geometry Problem
+8494	Elections
+8495	Keven
+8496	Casino
+8497	Segments
+8498	Circuits
+8499	TEX2HTML
+8500	Reihenfolge
+8501	Weed
+8502	VaR
+8503	Revolution
+8504	Perspective
+8505	Palindrome
+8506	Game
+8507	Triangle
+8508	Numbers
+8509	Jam
+8510	Circle
+8511	Random
+8512	Puzzle
+8513	Thief
+8514	Never drink too much!
+8515	Homo or Hetero?
+8516	BFFs
+8517	Match me if you can
+8518	Modulo 11
+8519	Sum of even digits
+8520	Conditional statement - 1
+8521	Conditional statement - 2
+8522	Divisibility
+8523	Circle
+8524	Sum of positive in matrix
+8525	Even negative numbers in matrix
+8526	Conditional statement - 3
+8528	Global Positioning System
+8529	Capracar conversion
+8530	Print Matrix
+8531	Divisibility by numbers
+8532	Print squares and cubes
+8533	Numbers with different digits
+8544	Squares of numbers
+8545	Multiplication table
+8546	Find the sum
+8548	Divisible Sum Pairs
+8550	Print the chessboard
+8551	Sequences
+8552	Game
+8553	Computer network
+8554	Shopping
+8556	Chain
+8557	Khans
+8561	Colorgraph
+8562	Crypto
+8563	Paths in multigraph
+8564	Tower
+8565	Cheap traveling
+8566	Towers
+8567	The game "Divisibility"
+8569	String length
+8570	Length of words
+8571	Count the letters
+8580	ABCD
+8581	Products
+8582	Reconstruction
+8583	Competition
+8587	Game
+8588	Rain again
+8589	Squares
+8590	Maximal area
+8591	Table
+8593	Divisible by 8
+8594	Between A and B
+8595	Dogs and monkeys
+8597	Field
+8599	Digits of 3-digit number
+8600	Sum and product 2
+8601	Swap the digits in two-digit integer
+8602	Third from right
+8603	Sum and product 3
+8604	Sum and product of real numbers
+8605	Sum of real numbers
+8606	Sum of some real numbers
+8608	sgn function
+8609	Recursion - 1
+8610	Previous and next letter
+8611	Water and Ice
+8612	Conditional statement - 4
+8614	Inside the interval
+8616	Triangle Counting
+8619	Five-digit in order
+8620	Three identical digits
+8621	Two identical digits
+8622	Divisibility by digits
+8624	At least two equal digits
+8626	Two digits in a row
+8627	Sum of neighbors
+8628	All digits are even
+8629	At least one odd
+8630	Maximum digit in a number
+8631	Number of maximal digits
+8636	Sort from 0 to n - 1
+8638	Append three
+8640	Numbers with odd digits
+8641	Three digit Armstrong numbers
+8642	Four digit Armstrong numbers
+8643	Innohorse
+8645	Innoforest
+8646	Stones Distribution
+8647	XOR sum
+8653	Add subtract and multiply
+8654	Integer multiplication
+8656	Sort the points by coordinates
+8657	Difference of middle
+8661	Credit
+8666	Cow Cotillion
+8667	Cow Treats
+8668	Hexagonal Pasture Network
+8670	Degree of two
+8671	Representable with sum of squares
+8672	Square root
+8674	Game
+8676	Express As The Sum
+8677	XOR
+8678	Birches
+8679	Divide by 3
+8680	Even neighbours
+8682	Remove even digits
+8683	The sum of products of digits
+8684	Sum and amount
+8685	Arithmetical mean
+8687	Perimeter of triangle
+8689	Function - 4
+8690	Function - 5
+8691	Oversized Pancake Flipper
+8692	Tidy Numbers
+8693	Bathroom Stalls
+8694	Fashion Show
+8695	Game
+8696	Grades
+8697	Square string
+8698	Repeated numbers
+8700	Moda
+8709	Valya and a letter
+8710	Excursion
+8711	How to lose a contest
+8712	Railways in Berland
+8713	Challenging tasks
+8714	Robot Race
+8715	Flexible Segments
+8716	Secret Code
+8717	Torus Travel
+8718	Amalthea's new walk
+8719	Formula 42
+8720	Magic
+8721	Six
+8722	Particles
+8723	Camel
+8724	Experiences
+8726	MAXCOMP
+8728	Page not found
+8729	Page not found
+8730	Page not found
+8732	Page not found
+8735	Train Swapping
+8738	Two measurements
+8739	Perfect squares
+8740	Warehouse automation
+8741	Machine learning
+8742	Faulty Mars Rover
+8743	Interval trainings
+8744	Expedition
+8745	Partition to pairs
+8746	Elections
+8747	Sum divisibility
+8749	Anagrams
+8750	Gift
+8756	F
+8760	Depth First Search
+8761	Depth First Search - Timestamps
+8762	Sum (functions)
+8763	Sum of array elements
+8767	Candies
+8769	Nuts
+8774	Elections
+8788	Coins
+8800	Hello, Python!
+8802	Previous number
+8806	Number of students
+8809	Marathon
+8810	School concert
+8812	Perimeter and area
+8815	Surface area and volume 2
+8825	Value of variable 1
+8826	Value of variable 2
+8827	Value of variable 3
+8829	Value of variable 5
+8830	Value of variable 6
+8831	Value of expression 1
+8833	Value of expression 3
+8837	Quotient and remainder
+8843	Delete the digit
+8851	051
+8852	052
+8853	053
+8855	Find the number 1
+8860	Find the sum
+8861	061
+8862	062
+8863	063
+8864	Numbers of the same sign
+8865	065
+8867	067
+8868	068
+8869	069
+8873	One-digit number
+8874	Two-digit number
+8875	075
+8876	Integer
+8877	Perfect square
+8878	078
+8881	081
+8882	Square
+8883	083
+8884	084
+8885	Previous odd integer
+8886	Previous even integer
+8887	Next odd integer
+8888	Next even integer
+8889	089
+8890	Increase even digit
+8891	Exactly one condition out of two
+8892	At least one condition out of two
+8893	Each condition of two
+8894	None of the two conditions
+8896	096
+8897	Next number 2
+8898	098
+8899	099
+8900	Minimum among the larger
+8901	101
+8902	102
+8903	103
+8904	104
+8905	105
+8907	107
+8908	108
+8909	109
+8910	110
+8911	111
+8912	112
+8913	113
+8914	114
+8915	All odd
+8916	First evens
+8917	Degrees of two
+8918	Complete squares
+8919	Perfect cubes
+8921	121
+8922	122
+8923	123
+8924	124
+8925	125
+8926	Change the parity
+8928	Greatest divisor
+8931	All OK
+8932	Marathon 2
+8933	Timer
+8934	Marathon 3
+8935	Odds in the interval
+8936	Evens in the interval
+8938	#Rectangle
+8939	#Rectangle 2
+8940	#Rectangle 3
+8941	Matrix
+8942	*Frame
+8943	*Frame 2
+8944	*Frame 3
+8945	*Frame 4
+8946	Template
+8948	Template 3
+8950	Template 5
+8951	Template 6
+8952	Template 7
+8953	Print array
+8954	Print array 2
+8955	Print array 3
+8956	Print array 4
+8957	Print array 5
+8958	158
+8959	Difference between maximum and minimum
+8961	First the smallest
+8962	The last the largest
+8963	Minimums to the left
+8965	Initial values of elements
+8967	167
+8968	168
+8969	169
+8970	170
+8971	171
+8972	172
+8973	173
+8974	Fashion Elements 2
+8975	175
+8976	176
+8978	Slicing 3
+8979	Only one letter
+8980	Number of sentences
+8981	Indexes of spaces
+8982	Indexes of letter
+8983	Number of digits
+8984	184
+8985	Delete a letter
+8986	Delete a fragment
+8987	Character replacement
+8988	Character replacement 2
+8989	189
+8990	Vowels doubling
+8991	Characters doubling
+8992	192
+8993	193
+8994	194
+8995	195
+8996	196
+8997	197
+8998	The youngest symbol
+8999	Senior symbol
+9000	Ordering
+9001	Big product
+9002	Chocolate lover
+9005	Universal numbers
+9006	Cross the river
+9007	Absolute distinct count
+9016	Binary search
+9017	Binary search - 1
+9018	n-th integer divisible by a or b
+9019	n-th term divisible by a, b or c
+9020	Split into k sub-arrays
+9021	Count the integers of the form 2^x * 3^y
+9022	Count the triplets
+9023	Minimum increments
+9024	Distribute candies among people
+9025	K-th element
+9027	Digits density
+9028	Number of divisors
+9029	Destruction of buildings
+9030	XOR-ing Murad
+9031	New operational system
+9033	Greedy Aziz
+9034	International Language Olympiad
+9035	Class MinStack
+9036	Dice Combinations
+9037	Removing Digits
+9038	Potemkin cycle
+9039	Calvinball championship
+9040	Pipes
+9044	Lonely Island
+9045	XORanges
+9048	Awesome Arrowland Adventure
+9051	Class Vector
+9052	Headshot
+9053	Image compression
+9054	Super agent dish
+9055	Secret code
+9056	Jenga game
+9057	Combination lock
+9062	Rats eating
+9063	Greek car
+9064	Old man and chessboard
+9065	Pandora's Box
+9066	Shooting section
+9067	Ancient Greek isomorphism
+9068	Chariot Racing
+9069	Game in strings
+9070	Class Triangle
+9072	Class data
+9080	Three heroes
+9081	Game cards
+9082	Game "15++"
+9083	Preparing for battle
+9084	Biwordism
+9088	XOR path
+9098	XOR sum
+9099	XOR
+9100	Tribute
+9101	Boardroom Meeting
+9102	Secret Santa
+9103	Guessing Game
+9104	Flat Earth
+9105	We Need More Managers!
+9106	Masterpiece
+9107	Don’t Split The Atom!
+9108	Bobby Tables
+9109	Triples
+9110	Related Languages
+9111	Airport Check-in
+9114	DotA Quals
+9285	Little Q and Big Integers
+9357	Page not found
+9393	Delete odd digits
+9399	Kvadrat
+9403	Cross
+9405	Professor and balloons
+9406	Professor and batteries
+9407	String merging
+9408	Pretty necklace
+9410	Students love
+9411	Excalibur
+9412	GeoGame
+9413	Graphity
+9414	Kill all termites
+9415	XOR
+9416	LOL
+9417	woogle.we
+9418	Abusing 1Fit limits
+9419	1
+9420	2
+9421	3
+9422	Left and Right
+9423	Price function - 1
+9424	Price function - 2
+9425	Fractions: addition and subtraction
+9426	Fractions: multiplication and division
+9427	Fractions: n-th term of the sequence
+9428	Fractions: minimum and maximum
+9429	DHONDT
+9430	POGODAK
+9431	Robot
+9432	Place
+9433	Anniversary Cake
+9434	Boys and Girls
+9435	CodeCoder vs TopForces
+9438	Folding
+9439	Gangsters in Central City
+9440	Hard Cuts
+9441	Integral Polygons
+9443	King's Heir
+9496	Distance Sum
+9506	Arithmetic magic
+9507	Big changes
+9518	Accurate Movement
+9521	Double Palindrome
+9525	High Load Database
+9531	Complex numbers: addition and subtraction
+9532	Complex numbers: multiplication and division
+9536	Sum of matrices
+9537	Transpose the matrix
+9541	Chessboard
+9544	String operations
+9549	Page not found
+9551	Sum a*a + ... + b * b
+9552	Salut!
+9554	Start of the new journey
+9555	We are drunk
+9556	Am I Drunk?
+9557	Bins and balls
+9558	Flags
+9559	Grid with equal xor
+9563	Rows with minimal elements
+9578	8978
+9580	Apprentice Learning Trajectory
+9581	Balls of Buma
+9589	Just Arrange the Icons
+9590	Key Storage
+9591	Lexicography
+9592	Concatenation of two palindromes
+9593	Merge the sequences
+9594	ABA
+9595	Video conference
+9596	Word Processor
+9597	Photoshoot
+9598	Race
+9599	Berry Picking
+9600	Loan Repayment
+9601	Wormhole Sort
+9602	Time is Mooney
+9603	Farmer John Solves 3SUM
+9604	Springboards
+9607	Watermelons
+9608	Taxi
+9610	Mixed sequence
+9614	Coin change problem
+9615	Frobenius coin problem
+9616	Anti-palindromic strings
+9617	Number of positive
+9618	Sum of negative
+9620	Nautilus
+9621	Alpine valley
+9622	Tom's Kitchen
+9625	toUpperCase
+9626	startsWith endsWith
+9627	a^b^c
+9629	k-th ancestor
+9631	Competition of sequences
+9632	The best team
+9634	Go to the finals
+9635	Transport system
+9636	Dino and colors
+9637	Dino and snow buildings
+9638	Easy problem for Dino
+9639	Big array of Dino
+9640	Dino and fetters
+9642	Good pairs
+9643	Catalan numbers
+9644	Sum of powers
+9646	Sum of powers 2
+9647	Optimal Matrix Multiplication
+9648	Sort the digits of numbers
+9649	Java Fraction 1
+9650	Java Reduce a fraction
+9651	Java Fraction 2
+9652	Java MyLong Add
+9653	Java MyDouble Arithmetic Operations
+9654	Depth first search on a disconnected graph
+9655	Mr. Nine and his love for mangoes
+9656	Java Inheritance Shape
+9657	Java Inheritance Rectangle Square
+9658	Java Person Teacher 1
+9659	Java Person Teacher 2
+9660	Java Person Teacher 3
+9661	Java Person Teacher 4
+9662	Java Person Teacher 5
+9663	Java Person Teacher 6
+9664	Java Person Teacher 7
+9670	Cakey McCakeFace
+9671	Table
+9672	Macarons
+9673	Candy Chain
+9674	Ingredients
+9686	City of Lights
+9701	Extreme Temperatures
+9702	Environment-Friendly Travel
+9703	Biodiversity
+9704	Ants
+9707	Icebergs
+9708	Swapping Places
+9709	Pseudo-Random Number Generator
+9710	Rats
+9711	Counting Trees
+9714	Java Abstract Shape
+9715	Java Abstract Array Min Max
+9716	Java Abstract Array Sum Average
+9717	Java Interface Bird
+9718	Worker and Salary
+9719	Worker and Salary 2
+9720	Java Collections Students Subjects
+9721	Java FileInputStream
+9722	Java ArithmeticException
+9759	ABB
+9761	Bob in Wonderland
+9767	Ponk Warshall
+9771	Amin and Puzzle
+9772	Chess Tournament
+9778	Amin and Emil play game
+9781	God saves man, who save himself !
+9783	Old Huseyn
+9797	Unique Encryption Keys
+9870	Daily Division
+9876	Jurassic Jigsaw
+9878	A Prize No One Can Win
+9879	Birthday Boy
+9889	Product of differences
+9891	Odd sum
+9892	C0n + ... + Cnn
+9893	Matrix: sum of indexes
+9894	Sum of rows
+9895	Arithmetic progressions
+9896	Average price
+9897	Set of strings
+9898	LinkedList Sum
+9899	LinkedList Length
+9913	Google is beautiful!
+9914	Welcome, Linux!
+10005	Ones
+10029	Corona2020
+10031	Skyscrapers
+10032	Positive tests
+10033	Fire extinguishing robot
+10034	Virus detection
+10042	LinkedList Cycle
+10043	LinkedList Cycle starting point
+10044	LinkedList Merge
+10045	Class LinkedList
+10046	LinkedList Reverse
+10047	LinkedList Intersection
+10048	Reverse the graph
+10049	Bitmap
+10050	Longest path in a tree
+10056	Breadth First Search 0-1
+10057	Tree PreOrder Traversal
+10058	Breadth First Search 0-1-2
+10059	Tree InOrder Traversal
+10061	Tree Minimum element
+10062	Tree Maximum element
+10063	Tree Find
+10064	Tree Sum of elements
+10082	Shortest even path
+10100	Pythagoras's Revenge
+10108	Tree Same
+10110	Tree Maximum depth
+10111	Tree Sum of left leaves
+10112	Tree Balanced
+10113	Tree Sum of leaves
+10115	Tree Symmetric
+10117	Triangles (Bronze)
+10118	Mad Scientist
+10119	Swapity Swap
+10120	Swapity Swapity Swap
+10121	Triangles (Silver)
+10122	Clock Tree
+10123	Timeline
+10124	Help Yourself
+10126	Pairs
+10142	Power of time
+10143	Throwing cards away
+10145	Increasing sines
+10146	Tree Next
+10147	Tree Previous
+10151	Cow Contest
+10152	Running
+10153	Telephone Lines
+10161	IOI
+10165	Function f(n)
+10166	Max-heap
+10167	Student's queue in a canteen
+10168	Sum of inverse squares
+10169	Ternary search
+10170	A * B + C
+10171	Degrees of separation
+10172	Vertex
+10173	Mice and holes
+10174	Maximize the Ratio
+10199	Bad troubles at ACM ICPC
+10200	Rashad is trying to sleep
+10201	Binary Matrix
+10202	Tourist Huseyn
+10203	Arctic Network
+10205	Highways
+10212	Almost Shortest Path - weighted
+10218	The same number of divisors
+10223	The Settlers of Catan
+10224	Articulation points - Timestamps
+10234	Covid-19
+10235	Ordering tasks
+10236	N Queens - placement
+10242	Knight route
+10243	Book 1
+10244	Increasing sines 1
+10245	Names and characters
+10246	ACM Sort
+10263	Sort the people
+10269	J. Mountain View
+10270	Page not found
+10271	ADA School
+10272	Reduce to one
+10273	Magic set
+10280	Journey
+10281	Columns
+10284	Cow Gymnastics
+10285	Where Am I?
+10287	MooBuzz
+10288	Meetings
+10289	Milk Visits (Silver)
+10290	Milk Pumping
+10291	Milk Visits (Gold)
+10293	Greedy Pie Eaters
+10294	Bessie's Snow Cow
+10295	Tree Depth
+10296	Recursive function 1
+10303	Harmonic series
+10304	Social Distancing I
+10306	Cowntact Tracing
+10307	Social Distancing
+10308	Cereal
+10309	The Moo Particle
+10310	Haircut
+10311	Favorite Colors
+10313	Sprinklers 2: Return of the Alfalfa
+10315	Circus
+10316	Bucket Brigade
+10317	Milk Factory
+10318	Cow Evolution
+10319	Left Out
+10320	Cow Steeplechase II
+10321	Fence Planning
+10322	Snakes
+10323	I Would Walk 500 Miles
+10324	Balancing Inversions
+10326	Compound Escape
+10327	Valleys
+10328	Turtle - right top
+10329	Shell Game
+10330	Sleepy Cow Sorting (Bronze)
+10331	Guess the Animal
+10332	Grass Planting
+10333	Icy Perimeter
+10334	Mountain View
+10335	Cow Poetry
+10337	Shortcut
+10338	Redistricting
+10339	Exercise Route
+10340	Train Tracking 2
+10341	Sleepy Cow Herding (Bronze)
+10342	The Great Revegetation (Bronze)
+10344	Sleepy Cow Herding (Silver)
+10345	Painting the Barn (Silver)
+10346	The Great Revegetation (Silver)
+10348	Dishwashing
+10349	Painting the Barn (Gold)
+10350	Cow Dating
+10351	Moorio Kart
+10352	Mowing Mischief
+10353	Trapezoid 1
+10364	Do You Know Your ABCs?
+10365	Daisy Chains
+10366	Stuck in a Rut (Bronze)
+10367	Cowntagion
+10368	Rectangular Pasture
+10369	Stuck in a Rut (Silver)
+10370	Replication
+10371	Bovine Genetics
+10372	Square Pasture
+10373	Sleeping Cows
+10374	Spaceship
+10375	Cowmistry
+10376	Roll a Die
+10377	Random point in a circle
+10378	Unexpressed
+10379	Maximum Frequency Stack
+10380	LinkedList Middle
+10405	Teleportation
+10406	Hoofball
+10417	Blocked Billboard II
+10418	Lifeguards (Bronze)
+10419	Out of Place
+10420	Lifeguards (Silver)
+10421	Rental Service
+10422	MooTube (Silver)
+10423	MooTube (Gold)
+10424	Cow at Large
+10425	Stamp Painting
+10426	Lifeguards (Platinum)
+10427	Cow at Large (Platinum)
+10428	Sprinklers
+10432	Sum of leaves
+10433	Sum of nodes in a subtree
+10439	Cave Paintings
+10440	Non-Decreasing Subsequences
+10441	Falling Portals
+10442	Dron
+10443	Karabakh villages
+10452	The essay
+10453	Horse Racing
+10454	Boxes
+10455	Linear network
+10456	Server
+10467	LinkedList Simulate Sum of Odd Elements
+10468	LinkedList Simulate Number of Even Elements
+10481	A*B*C
+10482	Count sources
+10492	Java Geometric Object
+10496	Java Regular Polygon
+10505	Number of loops
+10506	Connected components Adjacency List
+10507	Sum of digits in the text
+10508	Count letters in the text
+10604	Java BufferedReader / BufferedWriter
+10605	Delegation (Platinum)
+10606	Equilateral Triangles
+10607	Help Yourself (Platinum)
+10608	Stack push / pop
+10609	First element occurring k times in an array
+10615	Sorted Arrangement
+10631	Cutting Metal Surplus
+10633	Stack Generic ArrayList
+10635	TreeSet Generic
+10636	ArrayList Generic
+10637	Deque Generic LinkedList
+10638	Sum and XOR
+10639	String theory
+10640	Binary matching
+10641	Box packing
+10642	Alimzhan loves ACM
+10643	Data compression
+10644	Alimzhan’s Triplets
+10645	Fun Problem
+10647	Dilemma
+10648	Avengers
+10651	The smallest Topological Sort
+10652	The unique Topological Sort
+10654	Unique Color
+10655	Virus Tree 2
+10656	Tree with small distances
+10657	LIS on Tree
+10658	Zeroes
+10666	Worker and Salary 3
+10667	Intervals on Tree
+10668	Paths on a Grid
+10681	Row of numbers
+10682	Hotels Along the Croatian Coast
+10683	Sum of cubes
+10684	Road Improvement
+10721	Another New Function
+10724	Safe Distance
+10735	Network
+10748	LinkedList Remove Cycle
+10751	Drink
+10753	ABC
+10761	Sum of distances
+10762	Soldiers Row
+10763	LinkedList Cycle length
+10764	Integer division by 5
+10775	Root decomposition problem with large constraints
+10776	Travelling by car
+10777	Travelling by car - 2
+10799	Z-Frog 3
+10800	Rectangles
+10801	Sum of digits
+10802	LinkedList Distance to Cycle
+10803	LinkedList Delete first element
+10804	Functional equation
+10805	Page not found
+10806	Page not found
+10807	Page not found
+10808	Page not found
+10809	Page not found
+10811	Disjoint Sets Union
+10812	Page not found
+10813	Page not found
+10814	Disjoint Sets Union 2
+10815	Page not found
+10819	Politicians and Competitive Programmers
+10820	Fast Squarier Transform
+10821	LIS of Pairs
+10822	Patriotic Painting 1
+10823	Patriotic Painting 2
+10824	If You Are Homeless... Just Build a House
+10825	Another ICPC String Problem
+10826	Vovochka
+10827	Typical ICPC Problem
+10828	ICPC and Typos
+10829	Page not found
+10836	Summer
+10839	Set
+10840	Volontiranje
+10863	Page not found
+10864	Page not found
+10866	Ternary search in array
+10867	Maximum in Unimodal Sequence
+10868	Number of elements in unimodal sequence
+10869	Building Construction
+10880	Archeologists
+10881	Reverse Game
+10882	3-colorings
+10883	Disk Sort
+10884	Divisible by 3
+10885	Fence Job
+10886	Simple Hull
+10887	AND = OR
+10888	Modulo Permutations
+10889	One Piece
+10890	Codenames
+10891	Neo-Robin Hood
+10892	Mistake
+10893	Calculator
+10894	Page not found
+10909	Bubbles and Buckets
+10910	Page not found
+10911	Sushi for Two
+10921	Rook
+10941	TF Problem
+10942	Count words
+10943	Count digits
+10944	Heavy Cargo
+10945	Virtual Friends
+10946	Nature
+10947	Friends
+10948	Rings and Glue
+10949	The Playboy Chimp
+10950	Testing the CATCHER
+10951	Heaps
+10952	Miners
+10953	News
+10954	Hint
+10955	Delivery
+10956	Rabbit
+10957	Pretty
+10958	Wall
+10959	Sum and product
+10960	Monopoly
+10961	Cutting
+10962	Same Sum Subsequences
