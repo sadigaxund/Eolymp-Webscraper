@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import requests
 import time
 
+
 out_tsvFile = 'Eolymp.tsv'
 delim = '\t'
 header = ["ID", "Problem"]
@@ -17,7 +18,7 @@ def convertToTSV(line):
         retval += delim + line[i]
     return retval + "\n"
 
-def scrapePages(starti, endi):
+def fetchProblems(starti, endi):
     with open(out_tsvFile, 'w', newline='') as f:
         f.write("ID\tProblem\n")
         iter = 0
@@ -30,14 +31,14 @@ def scrapePages(starti, endi):
                 line = str(page_id) + "\t" + div1[0].text
                 
                 if "Signin" in line:
-                    print("Error Writing(Signin) : " + str(page_id))
+                    print("Error Writing(Signin) : Problem #" + str(page_id))
                     continue
 
                 if "503 Service" in line:
                     iter += 1
                     if iter == 3:
                         iter = 0
-                        print("I gave up(Timeout) : " + str(page_id))
+                        print("Request Timeout : Problem #" + str(page_id))
                         continue
                     page_id -= 1
                     time.sleep(1)
@@ -55,7 +56,7 @@ def scrapePages(starti, endi):
 
 
 
-scrapePages(first, last);
+fetchProblems(first, last)
 
     
 
