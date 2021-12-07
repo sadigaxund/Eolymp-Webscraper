@@ -10,9 +10,9 @@ class LogUtil:
     __out = ''
 
     def __init__(self, output='a.log') -> None:
-        f = open(output, mode = 'w')
-        f.write("")
-        f.close()
+        with open('readme.txt', 'w') as f:
+            f.write('')
+         
         self.__out = output
         pass
 

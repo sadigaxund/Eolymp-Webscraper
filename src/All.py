@@ -7,12 +7,19 @@ import requests
 import warnings
 warnings.filterwarnings("ignore")
 
-logger = Logger('data/info.log')
-out_tsvFile = 'data/Eolymp.tsv'
+import os
+p = os.path.abspath('..')
+
+dataPath = str(p) + "\data"
+logPath =  dataPath + "\info.log"
+
+
+logger = Logger(logPath)
+out_tsvFile = dataPath + "/all_raw.tsv"
 delim = '\t'
-header = ["ID", "Problem", "Complexity"]
-firstPage = 0
-lastPage = 324
+header = ["ID", "Problem"]
+firstPage = 318
+lastPage = 325
 
 # Log helper method
 def log(msg, type):
@@ -29,15 +36,14 @@ with open(out_tsvFile, 'w', newline='', encoding='utf-8') as f:
             page = requests.get(url)
             # Initialize the html parser
             soup = BeautifulSoup(page.content, 'html.parser')
-            divs = soup.find_all("div", {"class": "eo-list__item eo-problem-row"})
+            divs = soup.find_all("div", {"class": "eo-list__item eo-problem-row"}) # fetch list
             
             for div in divs:
                 try:
                     s = BeautifulSoup(str(div))
-                    ids = s.find_all("div", {"class": "eo-problem-row__id eo-problem-row__link_colored"})
-                    name = s.find_all("div", {"class": "eo-problem-row__name"})
-                    complx = s.find_all("div", {"class": "eo-problem-row__complexity"})
-                    line = [ids[0].text, name[0].text, complx[0].text]
+                    ids = s.find_all("div", {"class": "eo-problem-row__id eo-problem-row__link_colored"}) # fetch id
+                    name = s.find_all("div", {"class": "eo-problem-row__name"}) # fetch name
+                    line = [ids[0].text, name[0].text]
                     log("Completed : " + Logger.convertToXSV(line, " : ")[:-1], logger.INFO)
                     f.write(Logger.convertToXSV(line, delim))
                 except Exception as e:
